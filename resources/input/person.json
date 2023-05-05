@@ -1,0 +1,15 @@
+[
+	{
+		"firstName": "John",
+		"lastName": "Smith",
+		"isAlive": true,
+		"age": 25,
+		"spouse": {
+			"firstName": "Ana",
+			"lastName": "Rentry",
+			"isAlive": false,
+			"age": 35,
+			"spouse": null
+		}
+	}
+]

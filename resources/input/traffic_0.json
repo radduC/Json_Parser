@@ -1,0 +1,36 @@
+[
+	{
+		"CrtNr": 8878,
+		"Insert Time": "2015-04-24T06:34:29.406Z",
+		"domain": "delivery.clickganic.com",
+		"is_whitelisted": false,
+		"method": "GET",
+		"path": "/zonejsonp377.js?callback=CGDrawBanner&rtk436=1&tik0.22865068856190374",
+		"protocol": "HTTP/1.1",
+		"status_url": "ok",
+		"url": "http://delivery.clickganic.com/zonejsonp377.js?callback=CGDrawBanner&rtk436=1&tik0.22865068856190374"
+	},
+	{
+		"CrtNr": 10586,
+		"Insert Time": "2015-04-24T06:33:10.764Z",
+		"correlated_events": [],
+		"domain": "pr.ybp.yahoo.com",
+		"is_whitelisted": true,
+		"method": "GET",
+		"path": "/sync/casale/VTniQ7lQJlcAAEBnE4QAAAFF%26328",
+		"protocol": "HTTP/1.1",
+		"status_url": "ok",
+		"url": "http://pr.ybp.yahoo.com/sync/casale/VTniQ7lQJlcAAEBnE4QAAAFF%26328"
+	},
+	{
+		"CrtNr": 19734,
+		"Insert Time": "2015-04-24T06:18:24.707Z",
+		"domain": "front8.omegle.com",
+		"is_whitelisted": true,
+		"method": "POST",
+		"path": "/events",
+		"protocol": "HTTP/1.1",
+		"status_url": "ok",
+		"url": "http://front8.omegle.com/events"
+	}
+]

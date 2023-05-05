@@ -1,0 +1,1418 @@
+[
+    {
+        "#": 3534, 
+        "Insert Time": "2015-04-23T00:29:17.496Z", 
+        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+        "event_time": 1429748957489, 
+        "origin_ip": "186.195.0.202", 
+        "supposed_product": "Bd2014 v1.0.0", 
+        "url": "http://www.habbohotel.biz/login_popup"
+    }, 
+    {
+        "#": 14062, 
+        "Insert Time": "2015-04-18T15:40:07.536Z", 
+        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+        "event_time": 1429371607528, 
+        "origin_ip": "78.199.73.191", 
+        "supposed_product": "Bd2014 v1.0.0", 
+        "url": "http://www.habbobeta.co/me"
+    }, 
+    {
+        "#": 15787, 
+        "Insert Time": "2015-04-17T20:00:35.281Z", 
+        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+        "chk_hit-rules": {
+            "#": 12418, 
+            "Insert Time": "2015-04-19T10:09:22.003Z", 
+            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+            "cco_hit_rules": {
+                "#": 11818, 
+                "Insert Time": "2015-04-19T15:23:14.569Z", 
+                "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                "cco_hit_rules": [
+                    {
+                        "#": 1151, 
+                        "Insert Time": "2015-04-23T19:57:23.566Z", 
+                        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                        "event_time": 1429819043558, 
+                        "origin_ip": "31.33.164.26", 
+                        "supposed_product": "Bd2013 v1.0.0", 
+                        "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif"
+                    }, 
+                    {
+                        "#": 3446, 
+                        "Insert Time": "2015-04-23T01:47:19.739Z", 
+                        "assl_hit_rules": "VERIFIED_BY_VISA_6_IAN_2010_ALN", 
+                        "event_time": 1429753639731, 
+                        "origin_ip": "75.30.232.166", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://www.greendot.com/greendot/"
+                    }, 
+                    {
+                        "#": 5596, 
+                        "Insert Time": "2015-04-22T13:12:18.780Z", 
+                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                        "event_time": 1429708338771, 
+                        "origin_ip": "176.45.69.215", 
+                        "supposed_product": "Bd2013 v1.0.0", 
+                        "url": "http://www.fifacoinsbuy.com/fifa-15-account/ps4.html"
+                    }, 
+                    {
+                        "#": 10937, 
+                        "Insert Time": "2015-04-19T22:20:56.068Z", 
+                        "assl_hit_rules": "PAYPAL_UPDATE_ACCOUNT_27_OCT_2009_ALN", 
+                        "event_time": 1429482056065, 
+                        "origin_ip": "72.64.157.123", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://shop.advanceautoparts.com/web/OrderDisplay?langId=-1&catalogId=10051&storeId=10151&krypto=Rplc6qzmbTKA4zLoTPJPdw4/HMji4pH6IYSGQZf6gEvjLUSfAEoejZDS9j89SoiO0awnJKbRHLKj%0a5Wmnm+kjAcbFkQLvDXcshalHXfMR+UPIDPFlLmTUl3yFeTnN8rIpohzS79X/8RcILMjn/tVaBXLz%0aCuRD7MIdlgSeqNUz9Nu3ZFqB7veq+xOsHYsrCgkxS+JHV7n2mp6/GYo1e6wlfzAwpFlFhaRI0jbB%0aZE2amBOF6sGDT17lwFDgesJgFzTDRoKNlDFP4m5C2Vj0Aos8HoV6MkvnWvM8L7oJYxGSOebe83TI%0aIsLOkWzjW4FBXrScSbSkOgdCB9EAGzLjj2TZhXbsQKXi0tvKNEOejwrCIhqKROy7/YgAJKbNSbkM%0aBJec2NlwOtOXVck0644uPyDOCrx7LlQe1jHBsDavkuuEggs94ZPaqRFLC/LkM7GZYlqIBSyL0B70%0a9bJkt392PK+Ey05hhb0X1jPIhwiZFEIpbS0voYyWwrBxrbkg6gfEFrfjBok0+FAW5HtgrBhON52Q%0aD9tiB+zaaRJTAZAsksSi09jWOGiHFD57R7CGc1Q9qrKh1KLL5RLC/VOv5auC+xyqdDyTbnon8h+H%0aoTFXrw7mHR0SjgM2R5M7+jAZxv/qZZbPdIbolHO7wKQQ6/q8eGNuiW5NQMVBpsNpmvnTdIsZ7PvF%0aaj36WEoaUFIXjU6PLpIaWj7qi8sIL3c5+qLe3nb6ZvU888ISYnVF/3kE4N/qBoOgCiYXgyjDkWGP%0acu/TbdRh8S8i9aU4y662peiAGHaxEUSfK63Q9CAxfW6vVtP3BOBkI6oMU4w2/x7r/sPukg5iKOyH%0apl8dLk4a+N+gid1YV7+5WsCeE7AKzfDZAgM461jtgF9FPgfazhE0GHCRV0crn3cFP4fi9icRoozS%0aEP7eRYteu1Kxjn25ZwgTVwH10Rs%3D"
+                    }, 
+                    {
+                        "#": 10944, 
+                        "Insert Time": "2015-04-19T22:16:35.084Z", 
+                        "assl_hit_rules": "VERIFIED_BY_VISA_6_IAN_2010_ALN", 
+                        "event_time": 1429481795080, 
+                        "origin_ip": "107.77.83.29", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://www.greendot.com/greendot"
+                    }, 
+                    {
+                        "#": 16518, 
+                        "Insert Time": "2015-04-17T15:46:30.948Z", 
+                        "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                        "event_time": 1429285590943, 
+                        "origin_ip": "217.172.251.81", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://tibiopedia.pl/quests/Bigfoots_Burden_Quest"
+                    }, 
+                    {
+                        "#": 17030, 
+                        "Insert Time": "2015-04-17T11:45:41.806Z", 
+                        "assl_hit_rules": "PAYPAL_UPDATE_ACCOUNT_27_OCT_2009_ALN", 
+                        "event_time": 1429271141802, 
+                        "origin_ip": "97.95.36.232", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://shop.advanceautoparts.com/web/OrderProcess"
+                    }
+                ], 
+                "event_time": 1429456994550, 
+                "indep_hit_rules": {
+                    "#": 7863, 
+                    "Insert Time": "2015-04-21T10:14:14.924Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429611254919, 
+                    "origin_ip": "86.70.195.43", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://habbolfamily.fr/"
+                }, 
+                "op_hit_rules": [
+                    {
+                        "#": 1087, 
+                        "Insert Time": "2015-04-23T20:09:09.727Z", 
+                        "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                        "event_time": 1429819749721, 
+                        "origin_ip": "162.205.158.242", 
+                        "supposed_product": "?", 
+                        "url": "www.ebay.com/itm/Solar-Group-Mailbox-Wall-Locking-Black-/121515863050?pt=LH_DefaultDomain_0&hash=item1c4ae8ec0a"
+                    }, 
+                    {
+                        "#": 1489, 
+                        "Insert Time": "2015-04-23T18:23:34.616Z", 
+                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                        "event_time": 1429813414610, 
+                        "origin_ip": "188.194.100.171", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://www.fifacoinsgo.com/news/178--how-to-buy-cheap-fifa-15-coins-with-player-auction-player-contracts-buy-fifa-account--comfort-buy-after-ea-removed-club-names-"
+                    }, 
+                    {
+                        "#": 4920, 
+                        "Insert Time": "2015-04-22T16:55:26.878Z", 
+                        "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                        "event_time": 1429721726866, 
+                        "origin_ip": "82.23.59.79", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://originaltibia.com/s2/index.php?subtopic=characters&name=Rotkind"
+                    }, 
+                    {
+                        "#": 5224, 
+                        "Insert Time": "2015-04-22T15:38:54.882Z", 
+                        "assl_hit_rules": "PNC_BANK_3_MAR_2010_ALN", 
+                        "event_time": 1429717134872, 
+                        "origin_ip": "108.203.149.12", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://www.onlinebanking.pnc.com/alservlet/SignonInitServlet?devicePrint=version=1&pm_fpua=mozilla/5.0%20(windows%20nt%206.1;%20wow64;%20rv:37.0)%20gecko/20100101%20firefox/37.0|5.0%20(Windows)|Win32&pm_fpsc=24|1920|1080|1036&pm_fpsw=pdf|pdf&pm_fptz=-5&pm_fpln=lang=en-US|syslang=|userlang=&pm_fpjv=1&pm_fpco=1"
+                    }, 
+                    {
+                        "#": 5529, 
+                        "Insert Time": "2015-04-22T13:43:01.395Z", 
+                        "assl_hit_rules": "RULE_STEAM_30_IUL_2009_RZV_UPDATED3", 
+                        "event_time": 1429710181392, 
+                        "origin_ip": "142.196.207.127", 
+                        "supposed_product": "?", 
+                        "url": "webmail.tampabay.rr.com/do/mail/message/view?msgId=INBOXDELIM13771"
+                    }, 
+                    {
+                        "#": 6101, 
+                        "Insert Time": "2015-04-22T04:52:57.194Z", 
+                        "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                        "event_time": 1429678377193, 
+                        "origin_ip": "98.191.181.185", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://www.mypaymentsplus.com/App/Checkout.aspx"
+                    }, 
+                    {
+                        "#": 6499, 
+                        "Insert Time": "2015-04-21T22:26:32.808Z", 
+                        "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                        "event_time": 1429655192798, 
+                        "origin_ip": "86.18.11.140", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://tibiopedia.pl/error_report"
+                    }, 
+                    {
+                        "#": 10043, 
+                        "Insert Time": "2015-04-20T11:50:07.157Z", 
+                        "assl_hit_rules": "LOGIN_PAYPAL_23_NOV_2009_ALN", 
+                        "event_time": 1429530607149, 
+                        "origin_ip": "91.176.209.181", 
+                        "supposed_product": "Bd2013 v1.0.0", 
+                        "url": "http://services-upport-paypalconfirmation.elshowdelbalcon.com/"
+                    }, 
+                    {
+                        "#": 10842, 
+                        "Insert Time": "2015-04-19T23:24:29.096Z", 
+                        "assl_hit_rules": "RULE_STEAM_30_IUL_2009_RZV_UPDATED3", 
+                        "event_time": 1429485869093, 
+                        "origin_ip": "83.134.64.247", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://courriel1.rtbf.be/owa/?ae=Item&t=IPM.Note&id=RgAAAAAN8PCkUvNKTayqe6SZClF5BwBjmCgxTnGYQauwAV4oEu+RAGutjdWGAAA8i7yiNk4SQbtkc9/sF1LtAAALeK+BAAAJ"
+                    }, 
+                    {
+                        "#": 12623, 
+                        "Insert Time": "2015-04-19T08:29:28.828Z", 
+                        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                        "event_time": 1429432168793, 
+                        "origin_ip": "86.207.154.215", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://www.habbobeta.co/me"
+                    }, 
+                    {
+                        "#": 13490, 
+                        "Insert Time": "2015-04-18T19:28:41.519Z", 
+                        "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                        "event_time": 1429385321430, 
+                        "origin_ip": "85.68.82.99", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://www.habbobeta.co/index"
+                    }, 
+                    {
+                        "#": 13540, 
+                        "Insert Time": "2015-04-18T19:10:39.120Z", 
+                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                        "event_time": 1429384239110, 
+                        "origin_ip": "85.68.5.171", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://fr.ufifa.com/"
+                    }, 
+                    {
+                        "#": 16614, 
+                        "Insert Time": "2015-04-17T15:13:25.299Z", 
+                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                        "event_time": 1429283605273, 
+                        "origin_ip": "219.75.112.151", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://www.ufifa.com/"
+                    }
+                ], 
+                "origin_ip": "186.222.135.6", 
+                "supposed_product": "Bd2014 v1.0.0", 
+                "url": "http://www.tibiadb.com/"
+            }, 
+            "chk_hit-rules": {
+                "#": 9506, 
+                "Insert Time": "2015-04-20T16:02:14.676Z", 
+                "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                "event_time": 1429545734669, 
+                "origin_ip": "31.33.164.26", 
+                "supposed_product": "Bd2013 v1.0.0", 
+                "url": "http://www.habbobeta.co/"
+            }, 
+            "event_time": 1429438161999, 
+            "indep_hit_rules": [ ], 
+            "origin_ip": "92.131.140.220", 
+            "supposed_product": "Bd2014 v1.0.0", 
+            "target_hit_rules": [
+                {
+                    "#": 3996, 
+                    "Hits": "High", 
+                    "Insert Time": "2015-04-22T21:16:16.102Z", 
+                    "IsDown": "null", 
+                    "IsSecured": "Yes", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429737376094, 
+                    "indep_hit_rules": {
+                        "#": 11947, 
+                        "Insert Time": "2015-04-19T14:05:05.844Z", 
+                        "assl_hit_rules": "FACEBOOK_ALL_LANGUAGES_29_SEPT_2009_ALN_UPDATED3", 
+                        "event_time": 1429452305838, 
+                        "origin_ip": "193.194.94.16", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "http://anype.com/SURF/https://www.facebook.com/?_rdr"
+                    }, 
+                    "origin_ip": "84.100.99.160", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.hbeta.fr/viewthread?thread=1"
+                }, 
+                {
+                    "#": 5251, 
+                    "Insert Time": "2015-04-22T15:30:43.138Z", 
+                    "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                    "event_time": 1429716643128, 
+                    "origin_ip": "180.251.213.168", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "https://vtweb2.veritrans.co.id/v2/vtweb/3bee5718-dbe1-434a-9bb2-baed71bc547c"
+                }, 
+                {
+                    "#": 11514, 
+                    "Insert Time": "2015-04-19T17:29:35.484Z", 
+                    "assl_hit_rules": "PAYPAL_UPDATE_ACCOUNT_27_OCT_2009_ALN", 
+                    "event_time": 1429464575476, 
+                    "origin_ip": "69.255.163.93", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "target_hit_rules": {
+                        "#": 1588, 
+                        "Insert Time": "2015-04-23T17:55:11.308Z", 
+                        "assl_hit_rules": "PAYPAL_UPDATE_ACCOUNT_27_OCT_2009_ALN", 
+                        "event_time": 1429811711303, 
+                        "origin_ip": "173.93.255.148", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://shop.advanceautoparts.com/web/OrderDisplay?langId=-1&catalogId=10051&storeId=10151&krypto=IermtAjoEi6dD0Yt2QwrNeHDoxrY7mh3XUxp/DaWr1SdJTOVSbNr2q5Yp6jjJZqizlX6OrR1aU+i%0asenkyMLGO1YlZjlYKWJ7mXIFRlfibIDaocQ1rXbBQ5HxmXo+XHDYFZ80IgN9dMvMG+SYnEEZUoko%0abLSVQsp1t2uAC4cc+HAFaaxhYEGkb8z3SAssOeFgBEPgQIEXQQIP+rl4HzICBwgxdQ8jKSyVhH/q%0aZxf2vl18zFGJHx5yR9UAGwC4/+HJTmLrNTa5WOsDZ+fhsvs9PlpPcXK17OQ7cK+DBEQR2o9GcS6V%0a3ARef91+XAN6U7PFJ4PuAAevlGpqfKKdKY7Q/mi8/+uNSSLp6YrrpLZ9H09kU7CTx1Q7VSkLOK1m%0aR0He88B/8Na/DkKg103pamAFgFUPdd4LI8tzDsd/d7NrFH6hN1JWB0A2hFt/Yfpzc85VFB/WYCSN%0axn5p0omaN8mYAiDydOCSgiy9kKxlAVH9+IYn6YOXinIWWDGfxRB2RWDKFDE9vIsvzhIXA/l6mTAG%0aGhRGX521Rktt/obNrIaYgl9b06ChQbndxj3ShCLAcQm3Gi6JdKv1+G6sHz2GE084GuYW3IP4Hpcs%0aSFWwd6ekZnmN7itWRTgOC3GGSTHSR9EHzH56aSyBXNaHrZBxPKRxzvmTlgGifnVEYja0jFWWCGHY%0auihvinsS0F1fQCr2CzX0lNk5Sj9JE4Tq+SZgS2OdbPd22Gxy4PoT76KXB3NBSyOibvuatoojAEWt%0aolvD+JS8ykPTPadgHtLmNgDHjKcCgA=%3D"
+                    }, 
+                    "url": "https://shop.advanceautoparts.com/web/OrderDisplay?langId=-1&catalogId=10051&storeId=10151&krypto=IermtAjoEi6dD0Yt2QwrNVEF6b23qfp3mGw1FQ02wXIh0SN6puq6DL0vwvJdEYFg/KWZZK6Ftd+J%0aPLIyg5p+cVZjycqenWaueul8VBQoD2o7a3nso4jx5jRr2QcQAfakpvsQ3ZDoEy9jbPhaz5Fa/CFx%0aBHxlY8qHco73yow/UYLqFs1AC2STbvzgFmEQYWBLWYMFCuFHEjlNSlIqvmA73Egat51zpqRFQxjE%0aNRynA5ca5xbBmM3bl4k0pVvYMNPdiGpgVHWXmXCTPG6HRxb+pn0N5nG/Cg4Pn0M/mVTQv0ewjoTT%0aV8XSL4eGj+PmBVu3YAW0mJNBSanigk4hB1oTG+OtQv9fJih4MXQ/3A0VnIr+Zk12psBtS0ac7YAj%0aSthQPjgXxa9QqRR5wE3AiC9TA55jTRfLjzqdLHdN1nUt3kziRPrEIKNfv/mVZj0ZjyetOCZr3Uzc%0aGwqqchINd2PggwRRR3h181Hjt1ejiYUTwphJumy2qnH3awPrHShlHwqozzHS8yICguI5Qm1rMlCj%0avsWF1D+olyEO6G1P9y6NJMiqi8gIKeAp1O3rY5xlNuFxXl6FEGJh01QzH+5PhnZACXLSZAyujsXV%0a6Wss8skYNy0XvBg5w/Go27PWnDglGTfBxa/xut0OEqwRA59A5caxKRLvINDTVi+w6dijd6D8oEd5%0a977daCCqj4e4VX4BIdJ37n1jUmV5ZxNTwx4pgTMdszRjE30Mv9cxGhUhjWC4gILqrSXm3pnLvw=%3D"
+                }, 
+                {
+                    "#": 15845, 
+                    "Insert Time": "2015-04-17T19:31:26.036Z", 
+                    "assl_hit_rules": "RULE_EBAY_SAW_CGI,RULE_THIRD_ISP_PHISHED_UPDATED", 
+                    "cco_hit_rules": {
+                        "#": 11347, 
+                        "Insert Time": "2015-04-19T18:24:36.631Z", 
+                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                        "event_time": 1429467876618, 
+                        "origin_ip": "50.142.165.94", 
+                        "supposed_product": "?", 
+                        "url": "www.fifacoins2u.com/common/js/common.js"
+                    }, 
+                    "chk_hit-rules": [
+                        {
+                            "#": 340, 
+                            "Insert Time": "2015-04-24T01:13:05.687Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429837985678, 
+                            "origin_ip": "95.138.27.190", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.hbeta.fr/habblet/xml/promo_habbos?retry=2"
+                        }, 
+                        {
+                            "#": 454, 
+                            "Insert Time": "2015-04-24T00:14:49.828Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429834489819, 
+                            "origin_ip": "31.33.164.26", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif?retry=1"
+                        }, 
+                        {
+                            "#": 727, 
+                            "Insert Time": "2015-04-23T21:50:09.226Z", 
+                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                            "event_time": 1429825809221, 
+                            "origin_ip": "179.223.41.219", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.tibiana.org/?subtopic=accountmanagement"
+                        }, 
+                        {
+                            "#": 1701, 
+                            "Insert Time": "2015-04-23T17:21:14.008Z", 
+                            "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                            "event_time": 1429809674002, 
+                            "origin_ip": "73.44.139.82", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://www.mypaymentsplus.com/App/Checkout.aspx"
+                        }, 
+                        {
+                            "#": 1888, 
+                            "Insert Time": "2015-04-23T16:27:44.986Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429806464982, 
+                            "origin_ip": "91.178.52.65", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif"
+                        }, 
+                        {
+                            "#": 2154, 
+                            "Insert Time": "2015-04-23T15:22:42.224Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429802562219, 
+                            "origin_ip": "80.15.62.216", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.hbeta.fr/c_images/catalogue/icon_3188.png?retry=1"
+                        }, 
+                        {
+                            "#": 2168, 
+                            "Insert Time": "2015-04-23T15:19:15.938Z", 
+                            "assl_hit_rules": "CHONG_HING_BANK_5_IAN_2010_ALN", 
+                            "event_time": 1429802355932, 
+                            "origin_ip": "50.65.128.238", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.chonghingbank.com/images/bg_news.gif"
+                        }, 
+                        {
+                            "#": 2922, 
+                            "Insert Time": "2015-04-23T09:55:12.887Z", 
+                            "assl_hit_rules": "RULE_IP_TILDA_GLP", 
+                            "event_time": 1429782912883, 
+                            "origin_ip": "87.14.67.161", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://74.220.219.124/~tritiumt/EbayTemplate/media/paypal.png"
+                        }, 
+                        {
+                            "#": 2987, 
+                            "Insert Time": "2015-04-23T09:03:50.978Z", 
+                            "assl_hit_rules": "SARS_28_OCT_2009_ALN", 
+                            "event_time": 1429779830972, 
+                            "origin_ip": "105.210.108.31", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://epple-garten.de/dcib/ncs.iren/ncp.php"
+                        }, 
+                        {
+                            "#": 3560, 
+                            "Hits": "Medium", 
+                            "Insert Time": "2015-04-22T23:55:51.509Z", 
+                            "IsDown": "null", 
+                            "MeasuredDelay": 374, 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429746951503, 
+                            "op_hit_rules": {
+                                "#": 10427, 
+                                "Insert Time": "2015-04-20T06:33:44.003Z", 
+                                "assl_hit_rules": "WINDOWS_LIVE_9_OCT_2009_ALN_UPDATED2", 
+                                "event_time": 1429511623993, 
+                                "origin_ip": "185.84.104.10", 
+                                "supposed_product": "Bd2014 v1.0.0", 
+                                "url": "http://zhrt-albnfsg.yoo7.com/"
+                            }, 
+                            "origin_ip": "184.160.102.29", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "target_hit_rules": [
+                                {
+                                    "#": 5276, 
+                                    "Insert Time": "2015-04-22T15:24:30.934Z", 
+                                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                                    "cco_hit_rules": [
+                                        {
+                                            "#": 61, 
+                                            "Insert Time": "2015-04-24T05:20:38.484Z", 
+                                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                            "event_time": 1429852838477, 
+                                            "origin_ip": "189.176.43.116", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.tibiana.org/?subtopic=guilds&action=show&guild=146"
+                                        }, 
+                                        {
+                                            "#": 2185, 
+                                            "Hits": "Low", 
+                                            "Insert Time": "2015-04-23T15:18:07.034Z", 
+                                            "IsRedirected": "Null", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429802287027, 
+                                            "origin_ip": "80.15.62.216", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif?retry=2"
+                                        }, 
+                                        {
+                                            "#": 2348, 
+                                            "Insert Time": "2015-04-23T14:22:18.810Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429798938806, 
+                                            "origin_ip": "84.106.160.225", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.fifaah.com/fifa15-coins"
+                                        }, 
+                                        {
+                                            "#": 2652, 
+                                            "Insert Time": "2015-04-23T11:49:38.516Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429789778508, 
+                                            "origin_ip": "82.232.247.172", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.hbeta.fr/inscription"
+                                        }, 
+                                        {
+                                            "#": 4440, 
+                                            "Insert Time": "2015-04-22T19:06:44.512Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429729604503, 
+                                            "origin_ip": "50.117.34.207", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://habbost.us/"
+                                        }, 
+                                        {
+                                            "#": 5061, 
+                                            "Insert Time": "2015-04-22T16:13:11.698Z", 
+                                            "assl_hit_rules": "LOGIN_PAYPAL_23_NOV_2009_ALN", 
+                                            "event_time": 1429719191689, 
+                                            "origin_ip": "82.3.42.200", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://ciudadypoder.mx/templates/city/css/PIE/.https_/www.paypaI.co.uk/webapps-mpp-home-4546gdfaps82h8d54sa50e8.30e40b7fef616546543dk5646c8w2.k9fe683h682b56546546hg938.b7fefjkko80f578b8dks/4a510cbda313def8618e32ae36eb20d4/winfo.html?webscr=cmd_login-a630e40b7fef6jk65l654k9f-683hks009-56asn8sg1k37j4-54aps82h8d54sabx8vvc675-256gfsa742545655456"
+                                        }, 
+                                        {
+                                            "#": 6714, 
+                                            "Insert Time": "2015-04-21T20:25:59.187Z", 
+                                            "assl_hit_rules": "VERIFIED_BY_VISA_6_IAN_2010_ALN", 
+                                            "event_time": 1429647959181, 
+                                            "origin_ip": "74.138.31.205", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "https://www.greendot.com/greendot/"
+                                        }, 
+                                        {
+                                            "#": 7226, 
+                                            "Insert Time": "2015-04-21T16:13:43.021Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429632822994, 
+                                            "origin_ip": "93.228.128.200", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.ufifa.com/"
+                                        }, 
+                                        {
+                                            "#": 9386, 
+                                            "Insert Time": "2015-04-20T16:48:54.243Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429548534236, 
+                                            "origin_ip": "217.122.43.233", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://fifa15.cooldownloadz.com/"
+                                        }, 
+                                        {
+                                            "#": 13208, 
+                                            "Insert Time": "2015-04-18T22:21:47.580Z", 
+                                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                            "event_time": 1429395707574, 
+                                            "origin_ip": "94.251.238.242", 
+                                            "supposed_product": "Bd2013 v1.0.0", 
+                                            "url": "http://tibiopedia.pl/items/Disintegrate_Rune"
+                                        }
+                                    ], 
+                                    "chk_hit-rules": {
+                                        "#": 12317, 
+                                        "Hits": "Medium", 
+                                        "Insert Time": "2015-04-19T11:20:23.908Z", 
+                                        "IsRedirected": "Null", 
+                                        "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                        "event_time": 1429442423898, 
+                                        "origin_ip": "89.85.255.86", 
+                                        "supposed_product": "Bd2014 v1.0.0", 
+                                        "url": "http://ufifa.com/"
+                                    }, 
+                                    "event_time": 1429716270815, 
+                                    "indep_hit_rules": [
+                                        {
+                                            "#": 1111, 
+                                            "Hits": "Medium", 
+                                            "Insert Time": "2015-04-23T20:04:15.275Z", 
+                                            "IsDown": "null", 
+                                            "IsRedirected": "Null", 
+                                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                            "event_time": 1429819455269, 
+                                            "origin_ip": "217.172.251.81", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://tibiopedia.pl/images/static/user_outfits/Guardian%20of%20Druts.gif"
+                                        }, 
+                                        {
+                                            "#": 1609, 
+                                            "Insert Time": "2015-04-23T17:39:09.938Z", 
+                                            "assl_hit_rules": "CANADA_REVENUE_AGENCY_EN_18_IAN_2010_ALN", 
+                                            "event_time": 1429810749928, 
+                                            "origin_ip": "104.157.56.203", 
+                                            "supposed_product": "Bd2013 v1.0.0", 
+                                            "url": "http://angelochristian.com/.refund/.www.cra-arc.gc.ca/menu-e.html/myrefund/"
+                                        }, 
+                                        {
+                                            "#": 2465, 
+                                            "Hits": "Low", 
+                                            "Insert Time": "2015-04-23T13:20:02.740Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429795202732, 
+                                            "origin_ip": "81.53.127.125", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.fifacoinsbuy.com/fifa-15-coins/ps3.html"
+                                        }, 
+                                        {
+                                            "#": 2803, 
+                                            "Insert Time": "2015-04-23T10:55:43.712Z", 
+                                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                            "event_time": 1429786543706, 
+                                            "origin_ip": "217.172.251.81", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://tibiopedia.pl/images/static/user_outfits/Guardian%20of%20Druts.gif"
+                                        }, 
+                                        {
+                                            "#": 3375, 
+                                            "Insert Time": "2015-04-23T02:27:28.800Z", 
+                                            "assl_hit_rules": "RULE_BANKOFAMERICA_HTTP_COP_GLP_26_IUN_2009_UPDATED", 
+                                            "event_time": 1429756048771, 
+                                            "origin_ip": "107.181.77.47", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://offers.merrilledge.com/landing-whyedge/?cm_mmc=GWM-Edge-Int-_-AOL-_-1920x1080_ME_IN_P115_brn2in.mp4"
+                                        }, 
+                                        {
+                                            "#": 3690, 
+                                            "Insert Time": "2015-04-22T23:07:40.592Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429744060589, 
+                                            "origin_ip": "31.33.164.26", 
+                                            "supposed_product": "Bd2013 v1.0.0", 
+                                            "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif?retry=2"
+                                        }, 
+                                        {
+                                            "#": 4323, 
+                                            "Insert Time": "2015-04-22T19:23:55.923Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429730635917, 
+                                            "origin_ip": "77.200.178.41", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.hbeta.fr/gamedata/habbopages/help/pets/training"
+                                        }, 
+                                        {
+                                            "#": 5089, 
+                                            "Insert Time": "2015-04-22T16:03:39.959Z", 
+                                            "assl_hit_rules": "ING_NETHERLAND_15_DEC_2009_ALN", 
+                                            "event_time": 1429718619949, 
+                                            "origin_ip": "77.166.225.165", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://stroymontag72.ru/internetbankieren/SesamLoginServlet/"
+                                        }, 
+                                        {
+                                            "#": 5771, 
+                                            "Insert Time": "2015-04-22T11:25:33.925Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429701933920, 
+                                            "origin_ip": "62.90.156.122", 
+                                            "supposed_product": "Bd2013 v1.0.0", 
+                                            "url": "http://www.imfifa.com/"
+                                        }, 
+                                        {
+                                            "#": 7199, 
+                                            "Insert Time": "2015-04-21T16:25:43.837Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429633543829, 
+                                            "origin_ip": "82.241.31.44", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.hbeta.fr/me"
+                                        }, 
+                                        {
+                                            "#": 8244, 
+                                            "Insert Time": "2015-04-21T04:24:02.803Z", 
+                                            "assl_hit_rules": "CHASE_BANKING_ONLINE_22_OCT_2009_ALN", 
+                                            "event_time": 1429590242797, 
+                                            "origin_ip": "71.117.31.78", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://zxvorobey.ru/cli/chase/fcc.php?LOB=53026&reason=&portal=&dltoken=e923dffb1d19ae6c1b935d6e8f6b2a17"
+                                        }, 
+                                        {
+                                            "#": 9376, 
+                                            "Insert Time": "2015-04-20T16:53:32.012Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429548811819, 
+                                            "origin_ip": "94.215.28.138", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.fifacoinsbuy.com/fifa-15-coins/ps4.html"
+                                        }, 
+                                        {
+                                            "#": 10576, 
+                                            "Insert Time": "2015-04-20T03:50:31.078Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429501831073, 
+                                            "origin_ip": "90.20.6.78", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.fifacoinsbuy.com/fifa-15-account/ps3.html"
+                                        }, 
+                                        {
+                                            "#": 11255, 
+                                            "Insert Time": "2015-04-19T18:54:05.195Z", 
+                                            "assl_hit_rules": "CREDIT_MUTUEL_FR_17_IAN_2011_ALN", 
+                                            "event_time": 1429469645171, 
+                                            "origin_ip": "90.60.115.208", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://192.185.87.13/~cm68613/login.php?_productfilter=PERSONAL-DATA&_pid=UpdateCoordsConf&_fid=GoUpdateCoords&_state=3402-F&_rendertype=WebXForm&_rendertypeversion=2"
+                                        }, 
+                                        {
+                                            "#": 14266, 
+                                            "Insert Time": "2015-04-18T14:18:27.009Z", 
+                                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                            "event_time": 1429366707005, 
+                                            "origin_ip": "78.198.165.48", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.adohotel.me/"
+                                        }, 
+                                        {
+                                            "#": 16537, 
+                                            "Insert Time": "2015-04-17T15:36:45.973Z", 
+                                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                            "event_time": 1429285005959, 
+                                            "origin_ip": "83.253.237.86", 
+                                            "supposed_product": "Bd2014 v1.0.0", 
+                                            "url": "http://www.eafifacoin.com/fifa-15-account/"
+                                        }
+                                    ], 
+                                    "origin_ip": "5.70.73.247", 
+                                    "supposed_product": "?", 
+                                    "url": "www.ebay.co.uk/itm/JOB-LOT-OF-MOSTLY-1960S-VINYL-LP-RECORDS-KINKS-BYRDS-HOLLIES-ANIMALS-MORE-/141639942712?pt=LH_DefaultDomain_3&hash=item20fa660238"
+                                }, 
+                                {
+                                    "#": 7139, 
+                                    "Insert Time": "2015-04-21T16:57:36.870Z", 
+                                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                    "event_time": 1429635456861, 
+                                    "origin_ip": "190.151.231.63", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://hlat.es/me"
+                                }, 
+                                {
+                                    "#": 9298, 
+                                    "Insert Time": "2015-04-20T17:26:18.540Z", 
+                                    "IsDown": "null", 
+                                    "IsRedirected": "Null", 
+                                    "IsSecured": "No", 
+                                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                                    "event_time": 1429550778449, 
+                                    "origin_ip": "96.250.162.73", 
+                                    "supposed_product": "?", 
+                                    "url": "www.ebay.com/itm/Craft-Micro-Brewery-Beer-Tap-Handle-Lot-/161674053659?pt=LH_DefaultDomain_0&hash=item25a486481b"
+                                }, 
+                                {
+                                    "#": 10626, 
+                                    "Hits": "Medium", 
+                                    "Insert Time": "2015-04-20T02:55:55.283Z", 
+                                    "IsDown": "null", 
+                                    "IsRedirected": "Null", 
+                                    "MeasuredDelay": 1560, 
+                                    "assl_hit_rules": "RULE_BANKOFAMERICA_HTTP_COP_GLP_26_IUN_2009_UPDATED", 
+                                    "event_time": 1429498555279, 
+                                    "origin_ip": "99.49.39.89", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://offers.merrilledge.com/landing-whyedge/?cm_mmc=GWM-Edge-Int-_-MSN-_-728x90_ME_INTp115_NYSETab.gif"
+                                }, 
+                                {
+                                    "#": 15228, 
+                                    "Insert Time": "2015-04-18T02:28:22.112Z", 
+                                    "assl_hit_rules": "TIBIA_MULTIPLAYER_5_NOV_2009_ALN", 
+                                    "event_time": 1429324102108, 
+                                    "origin_ip": "187.131.46.129", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://www.noxiousot.com/index.php?subtopic=accountmanagement"
+                                }, 
+                                {
+                                    "#": 16479, 
+                                    "Insert Time": "2015-04-17T15:55:42.556Z", 
+                                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                                    "event_time": 1429286142538, 
+                                    "origin_ip": "50.187.169.173", 
+                                    "supposed_product": "?", 
+                                    "url": "www.ebay.com/itm/Vintage-Etienne-Aigner-1960s-OXBLOOD-Red-Leather-Belgian-Linen-Purse-Hand-Bag/121582459897?_trksid=p2047675.c100005.m1851&_trkparms=aid=222007&algo=SIC.MBE&ao=1&asc=20131003132420&meid=5472126b13444817a94f0d4200574074&pid=100005&rk=3&rkt=6&sd=121504695920&rt=nc"
+                                }
+                            ], 
+                            "url": "http://www.fifa-coins24.com/"
+                        }, 
+                        {
+                            "#": 4154, 
+                            "Insert Time": "2015-04-22T20:03:53.395Z", 
+                            "assl_hit_rules": "LOGIN_PAYPAL_23_NOV_2009_ALN", 
+                            "event_time": 1429733033387, 
+                            "origin_ip": "188.165.237.27", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://pinformation.esy.es/EspaceDF0775ACC3503/404b828cd9c1891a4cdc3c60427a55d9YjU3NDAwMGRmNjE3ZjcxNjI5MWUzYTQxZDRmZTA4NmM=/"
+                        }, 
+                        {
+                            "#": 4287, 
+                            "Insert Time": "2015-04-22T19:32:04.487Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429731124483, 
+                            "origin_ip": "177.87.12.18", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://www.habbo.today/"
+                        }, 
+                        {
+                            "#": 6172, 
+                            "Insert Time": "2015-04-22T03:07:37.540Z", 
+                            "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                            "event_time": 1429672057534, 
+                            "origin_ip": "97.106.139.24", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://appsmqa.doh.state.fl.us/erenewal/CCInfo.asp?ProfNbr=4401&LicID=644442"
+                        }, 
+                        {
+                            "#": 6356, 
+                            "Insert Time": "2015-04-22T00:23:15.468Z", 
+                            "assl_hit_rules": "RULE_BANKOFAMERICA_HTTP_COP_GLP_26_IUN_2009_UPDATED", 
+                            "event_time": 1429662195462, 
+                            "origin_ip": "72.52.85.205", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://offers.merrilledge.com/landing-whyedge/?cm_mmc=GWM-Edge-Int-_-CNBC.com-_-1920x1080_ME_INTp214_RTX.mp4"
+                        }, 
+                        {
+                            "#": 6648, 
+                            "Insert Time": "2015-04-21T21:13:31.195Z", 
+                            "assl_hit_rules": "RULE_IP_TILDA_GLP", 
+                            "event_time": 1429650811187, 
+                            "origin_ip": "86.160.81.202", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://5.102.190.166/~xenonson/ebay_store/ebay/images/left_menu_center_bg..jpg"
+                        }, 
+                        {
+                            "#": 6990, 
+                            "Insert Time": "2015-04-21T18:01:37.797Z", 
+                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                            "event_time": 1429639297746, 
+                            "origin_ip": "83.29.224.218", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.tibia-stats.com/index.php?akcja=2001&mid=922"
+                        }, 
+                        {
+                            "#": 7686, 
+                            "Insert Time": "2015-04-21T12:27:30.247Z", 
+                            "assl_hit_rules": "RULE_PAYPAL_AFTER_DOMAIN_23_IUN_2009_AFC", 
+                            "event_time": 1429619250237, 
+                            "origin_ip": "5.108.47.152", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "https://cdn.riyadonline.com/go.ashx/www.hsbc.co.uk/1/2/royalbank.commijn.ing.nl/internetbankieren/SesamLoginServlet/banking.sparkasse.de/portal/portal/startseitep=plloydsbank?U=credem.it..ing.nl/mp/bb/.bmo.comwww1.royalbank.com/cgi-bin/rbaccess/rbcgiwachovia.com/myAccountsbanquepopulaire.fr/https://my.if.com/PlanReviewAct/plan.asphttps://secure.halifax-online.co.uk/personal/a/.lloydstsb.co.uk/personal/https://banking.chase.com/MyAccountshttps://www.hsbc.co.uk/1/2/personal/internet-banking/kcxml/capitalone.com/secure.bankofamerica.com/myaccounts/signin/signIn.go?isSecureMobileisbank.com.tr/Internet/ummary.aspx/accounts-overview/GotoWelcomenpbs.co.uk/portal/Home.dobusinessaccess.citibank.citigroup.com/cbusol/signon.dohttps://www.nwolb.com/default.aspxlogin.aspx?refereridentAuthenticateUserInputRoamingEPF.doitreasury.regions.com/wcmfd/targobank.decoinbaseca-nord-est.frwww.sabb.com/1/2/!ut/www.smbc-card.com/mem/banking.dkb.de/dkbwww.servis24.cz/ebanking-s24/intesasanpaolo.com/script/Login2Servlet?://www.natwest.com/businessManageTAN/bgzweb/auth/login/sub.wellsfargo.comhttp://www.ebay.come-norvik.lv/main.cfm.pncs.com.au/806015v47/.de/cgi/.de/webcorpo/do/https://www.bancsabadell.com/.id.rakuten.co.jp/rms/nid/loginsnsbank.nl/mijnsns/secure/loginmuj.erasvet.cz/prihlasentsb.co.uk/personal/a/make_transferlloydsbank.co.uk/personalbpinet.pt/www.53.com/sitetsb.co.uk/personal/a/change_MIcmol.bbt.comsecure.hsbcnet.com/uims/portal/boleto&i=1&cid=2&vn=yW6&ec=28101&LSESSIONID=jLd1oqEZ54kudiaBKh0v3j0NovOSpn3ZXUq0EXavFtPX08UvNMtx48U%3D"
+                        }, 
+                        {
+                            "#": 8107, 
+                            "Insert Time": "2015-04-21T06:55:18.853Z", 
+                            "assl_hit_rules": "ING_NETHERLAND_15_DEC_2009_ALN", 
+                            "event_time": 1429599318849, 
+                            "origin_ip": "37.153.239.224", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://login.ing-intermediairs.nl/j_security_check"
+                        }, 
+                        {
+                            "#": 8332, 
+                            "Insert Time": "2015-04-21T03:06:08.038Z", 
+                            "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                            "event_time": 1429585568032, 
+                            "origin_ip": "72.170.224.112", 
+                            "supposed_product": "?", 
+                            "url": "www.ebay.com/itm/Baby-or-Doll-Dress-sz-0-3-Months-With-Embroidered-Applique-Flowers-Butterfly-/231529449687?pt=LH_DefaultDomain_0&hash=item35e83b08d7"
+                        }, 
+                        {
+                            "#": 10023, 
+                            "Insert Time": "2015-04-20T12:00:30.920Z", 
+                            "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                            "event_time": 1429531230915, 
+                            "origin_ip": "188.80.19.109", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://client.ipostalmail.net/TopUp/MakePayment.aspx"
+                        }, 
+                        {
+                            "#": 10402, 
+                            "Insert Time": "2015-04-20T07:13:43.345Z", 
+                            "assl_hit_rules": "RULE_ORANGE_29_IUL_2009_RZV", 
+                            "event_time": 1429514023325, 
+                            "origin_ip": "5.134.96.195", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://espace-membresmessageriorange.890m.com/"
+                        }, 
+                        {
+                            "#": 10553, 
+                            "Insert Time": "2015-04-20T04:22:33.384Z", 
+                            "IsDown": "null", 
+                            "MeasuredDelay": 1822, 
+                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                            "chk_hit-rules": {
+                                "#": 6895, 
+                                "Insert Time": "2015-04-21T18:43:43.433Z", 
+                                "assl_hit_rules": "CANADA_REVENUE_AGENCY_EN_18_IAN_2010_ALN", 
+                                "event_time": 1429641823427, 
+                                "origin_ip": "99.245.56.131", 
+                                "supposed_product": "Bd2013 v1.0.0", 
+                                "url": "http://3456u7j76th.mysecuritycamera.org//includes/classes/temp/index.htm?bidderblocklogin&hc=1&hm=uk`1d72f+j2b2vi<265bidderblocklogin&hc=1&hm=uk`1d72f+j2b2vi<265bidderblocklogin&hc=1&hm=uk`1d72f+j2b2vi<265"
+                            }, 
+                            "event_time": 1429503753375, 
+                            "indep_hit_rules": [
+                                {
+                                    "#": 4029, 
+                                    "Insert Time": "2015-04-22T21:04:26.209Z", 
+                                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                    "event_time": 1429736666203, 
+                                    "origin_ip": "82.225.202.198", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://www.hbeta.fr/c_images/catalogue/bots_teaser.gif"
+                                }, 
+                                {
+                                    "#": 4590, 
+                                    "Insert Time": "2015-04-22T18:18:46.861Z", 
+                                    "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                    "event_time": 1429726726855, 
+                                    "origin_ip": "94.225.129.47", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://www.fifacoinsbuy.com/fifa-15-coins/ps3.html"
+                                }, 
+                                {
+                                    "#": 12824, 
+                                    "Insert Time": "2015-04-19T04:01:55.065Z", 
+                                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                                    "event_time": 1429416115062, 
+                                    "origin_ip": "174.45.112.248", 
+                                    "supposed_product": "?", 
+                                    "url": "www.ebay.com/itm/BAOFENG-UV-5R-VHF-UHF-Dual-Band-Two-Way-Ham-Radio-Transceiver-Walkie-Talkie-/371153474155?pt=LH_DefaultDomain_0&hash=item566a78926b"
+                                }, 
+                                {
+                                    "#": 14498, 
+                                    "Insert Time": "2015-04-18T12:44:29.500Z", 
+                                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                    "event_time": 1429361069496, 
+                                    "origin_ip": "81.246.221.163", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://www.habbobeta.co/"
+                                }
+                            ], 
+                            "op_hit_rules": {
+                                "#": 13612, 
+                                "Insert Time": "2015-04-18T18:52:48.166Z", 
+                                "assl_hit_rules": "LOGIN_PAYPAL_23_NOV_2009_ALN", 
+                                "event_time": 1429383168154, 
+                                "origin_ip": "194.169.217.135", 
+                                "supposed_product": "Bd2014 v1.0.0", 
+                                "url": "https://www.scamwarners.com/forum/viewtopic.php?f=43&t=62416"
+                            }, 
+                            "origin_ip": "87.205.143.249", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "target_hit_rules": [
+                                {
+                                    "#": 172, 
+                                    "Insert Time": "2015-04-24T03:25:02.657Z", 
+                                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                    "event_time": 1429845902650, 
+                                    "origin_ip": "12.27.241.36", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://habboun.com/user"
+                                }, 
+                                {
+                                    "#": 4655, 
+                                    "Insert Time": "2015-04-22T18:04:06.959Z", 
+                                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                                    "event_time": 1429725846949, 
+                                    "origin_ip": "108.27.16.118", 
+                                    "supposed_product": "?", 
+                                    "url": "www.ebay.com/itm/SKECHERS-RELAXED-FIT-memory-foam-shoes-for-women-NEW-AUTHENTIC-US-size-9-5-/261861381031?&autorefresh=true"
+                                }, 
+                                {
+                                    "#": 7132, 
+                                    "Insert Time": "2015-04-21T17:01:04.395Z", 
+                                    "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                                    "event_time": 1429635664383, 
+                                    "origin_ip": "74.50.180.201", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "https://www.wfg-online.com/SSL_New/SellingBuilding/eSignup/canada/step6.asp"
+                                }
+                            ], 
+                            "url": "http://axera.pl/index.php?subtopic=characters&name=Falos"
+                        }, 
+                        {
+                            "#": 14264, 
+                            "Insert Time": "2015-04-18T14:18:46.469Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429366726461, 
+                            "origin_ip": "82.244.204.15", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.habbobeta.co/index"
+                        }, 
+                        {
+                            "#": 14407, 
+                            "Insert Time": "2015-04-18T13:33:48.292Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429364028280, 
+                            "origin_ip": "84.183.0.45", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.fifa-coins24.com/"
+                        }, 
+                        {
+                            "#": 14482, 
+                            "Insert Time": "2015-04-18T12:53:06.532Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429361586504, 
+                            "origin_ip": "77.213.205.76", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.vipfifa15.co/coins/cart.html"
+                        }, 
+                        {
+                            "#": 14575, 
+                            "Insert Time": "2015-04-18T12:04:29.307Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429358669300, 
+                            "origin_ip": "90.43.28.49", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "http://www.habbobeta.co/shopbadge"
+                        }, 
+                        {
+                            "#": 15723, 
+                            "Insert Time": "2015-04-17T20:34:13.374Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429302853309, 
+                            "origin_ip": "92.139.90.123", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "http://www.habbobeta.co/"
+                        }, 
+                        {
+                            "#": 15816, 
+                            "Insert Time": "2015-04-17T19:39:57.668Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429299597652, 
+                            "origin_ip": "85.68.82.99", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.habbobeta.co/"
+                        }, 
+                        {
+                            "#": 16395, 
+                            "Insert Time": "2015-04-17T16:20:43.484Z", 
+                            "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                            "event_time": 1429287643440, 
+                            "origin_ip": "75.140.96.83", 
+                            "supposed_product": "?", 
+                            "url": "www.ebay.com/itm/Vintage-14K-Yellow-Gold-Ring-and-Brooch-set-Quality-Class-Beauty-/161675946384?pt=LH_DefaultDomain_0&hash=item25a4a32990"
+                        }, 
+                        {
+                            "#": 16405, 
+                            "Hits": "High", 
+                            "Insert Time": "2015-04-17T16:18:33.429Z", 
+                            "IsSecured": "Yes", 
+                            "assl_hit_rules": "STEAM_COMMUNITY_25_SEPT_2009_ALN_UPDATED,RULE_STEAM_30_IUL_2009_RZV_UPDATED3", 
+                            "event_time": 1429287513423, 
+                            "origin_ip": "71.198.242.141", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://steamurmmunity.com/profile_id/7656119820701695/home/"
+                        }, 
+                        {
+                            "#": 16741, 
+                            "Insert Time": "2015-04-17T14:45:08.773Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429281908555, 
+                            "origin_ip": "81.246.221.163", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.habbobeta.co/me"
+                        }, 
+                        {
+                            "#": 16788, 
+                            "Insert Time": "2015-04-17T14:22:07.350Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429280527343, 
+                            "origin_ip": "81.49.7.54", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.habbobeta.co/"
+                        }
+                    ], 
+                    "event_time": 1429299086025, 
+                    "indep_hit_rules": [
+                        {
+                            "#": 1615, 
+                            "Insert Time": "2015-04-23T17:37:35.191Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429810655184, 
+                            "origin_ip": "88.159.224.34", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.cheapfifa13coins.com/Gold/PInformation.aspx"
+                        }, 
+                        {
+                            "#": 1646, 
+                            "Insert Time": "2015-04-23T17:24:12.436Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429809852430, 
+                            "origin_ip": "90.7.86.85", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif?retry=2"
+                        }, 
+                        {
+                            "#": 1842, 
+                            "Insert Time": "2015-04-23T16:37:51.639Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429807071634, 
+                            "origin_ip": "93.105.179.194", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.fifacoinscode.com/tag/hack/"
+                        }, 
+                        {
+                            "#": 3412, 
+                            "Insert Time": "2015-04-23T02:04:40.621Z", 
+                            "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                            "event_time": 1429754680616, 
+                            "origin_ip": "50.162.198.254", 
+                            "supposed_product": "?", 
+                            "url": "www.ebay.com/itm/new-4-6ct-diamonique-14k-yellow-gold-filled-Eternity-Band-Ring-size-8-L021/111362395372?_trksid=p5411.c100168.m2941&_trkparms=aid=333008&algo=RIC.MBE&ao=1&asc=20140131123801&meid=c805c35f6c9e484f9ad544795d55aebd&pid=100168&rk=4&rkt=15&sd=191560899768"
+                        }, 
+                        {
+                            "#": 4243, 
+                            "Insert Time": "2015-04-22T19:47:30.956Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429732050950, 
+                            "origin_ip": "85.68.5.171", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://www.imfifa.com/"
+                        }, 
+                        {
+                            "#": 4467, 
+                            "Insert Time": "2015-04-22T19:01:40.977Z", 
+                            "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                            "event_time": 1429729300861, 
+                            "origin_ip": "50.162.198.254", 
+                            "supposed_product": "?", 
+                            "url": "www.ebay.com/itm/Jewelry-Brand-Womans-Rare-Emerald-18K-Gold-Filled-Wedding-Dangle-Earrings-Gift-/361275325924?pt=LH_DefaultDomain_0&hash=item541daffde4"
+                        }, 
+                        {
+                            "#": 4628, 
+                            "Insert Time": "2015-04-22T18:10:29.614Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429726229602, 
+                            "origin_ip": "84.195.203.177", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://buycoinsfifa16.com/mule-account-player-auction-comfort-trade-coins/"
+                        }, 
+                        {
+                            "#": 4911, 
+                            "Insert Time": "2015-04-22T16:56:04.761Z", 
+                            "assl_hit_rules": "CHASE_BANKING_ONLINE_22_OCT_2009_ALN", 
+                            "cco_hit_rules": {
+                                "#": 15828, 
+                                "Insert Time": "2015-04-17T19:36:26.257Z", 
+                                "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                "event_time": 1429299386222, 
+                                "origin_ip": "87.205.143.249", 
+                                "supposed_product": "Bd2014 v1.0.0", 
+                                "url": "http://axera.pl/index.php?subtopic=characters&name=Popek+Dominando"
+                            }, 
+                            "chk_hit-rules": {
+                                "#": 16301, 
+                                "Insert Time": "2015-04-17T16:44:16.472Z", 
+                                "IsDown": "null", 
+                                "IsRedirected": "Null", 
+                                "MeasuredDelay": 1848, 
+                                "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                "event_time": 1429289056460, 
+                                "origin_ip": "84.31.224.101", 
+                                "supposed_product": "Bd2013 v1.0.0", 
+                                "url": "http://www.utfifa15coins.com/fifa-15-coins/PC-1840"
+                            }, 
+                            "event_time": 1429721764756, 
+                            "indep_hit_rules": {
+                                "#": 13555, 
+                                "Hits": "High", 
+                                "Insert Time": "2015-04-18T19:08:31.006Z", 
+                                "MeasuredDelay": 814, 
+                                "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                "event_time": 1429384110998, 
+                                "indep_hit_rules": {
+                                    "#": 6494, 
+                                    "Insert Time": "2015-04-21T22:26:38.174Z", 
+                                    "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                    "event_time": 1429655198165, 
+                                    "origin_ip": "86.18.11.140", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://tibiopedia.pl/error_report"
+                                }, 
+                                "origin_ip": "31.33.164.26", 
+                                "supposed_product": "Bd2013 v1.0.0", 
+                                "url": "http://www.habbobeta.co/index"
+                            }, 
+                            "origin_ip": "134.174.1.162", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "target_hit_rules": {
+                                "#": 11093, 
+                                "Insert Time": "2015-04-19T20:55:35.356Z", 
+                                "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                                "cco_hit_rules": {
+                                    "#": 17178, 
+                                    "Insert Time": "2015-04-17T10:21:42.716Z", 
+                                    "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                                    "event_time": 1429266102715, 
+                                    "origin_ip": "84.2.208.174", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://www.vipcoinfifa.com/FIFA-15.PC.Coins"
+                                }, 
+                                "event_time": 1429476935350, 
+                                "op_hit_rules": {
+                                    "#": 5023, 
+                                    "Insert Time": "2015-04-22T16:23:58.697Z", 
+                                    "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                                    "event_time": 1429719838468, 
+                                    "origin_ip": "77.255.87.11", 
+                                    "supposed_product": "Bd2014 v1.0.0", 
+                                    "url": "http://axera.pl/?subtopic=characters&name=Upierdolony+Gra+Rp"
+                                }, 
+                                "origin_ip": "78.192.197.124", 
+                                "supposed_product": "Bd2014 v1.0.0", 
+                                "url": "http://www.adohotel.me/index"
+                            }, 
+                            "url": "https://webmail.joslin.harvard.edu/owa/"
+                        }, 
+                        {
+                            "#": 5073, 
+                            "Insert Time": "2015-04-22T16:09:11.429Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429718951422, 
+                            "origin_ip": "31.33.164.26", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "http://www.hbeta.fr/c_images/catalogue/teaser_blocks.gif?retry=2"
+                        }, 
+                        {
+                            "#": 5364, 
+                            "Insert Time": "2015-04-22T15:05:47.599Z", 
+                            "assl_hit_rules": "VISA_UPDATE_CREDIT_CARD_23_APR_2010_ALN", 
+                            "event_time": 1429715147530, 
+                            "origin_ip": "70.197.192.56", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "https://www.visadpsgiftcard.com/tcf/Pages/SignInStep2.aspx"
+                        }, 
+                        {
+                            "#": 6176, 
+                            "Insert Time": "2015-04-22T03:03:04.604Z", 
+                            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                            "event_time": 1429671784599, 
+                            "origin_ip": "173.32.173.84", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://ufifa.com/"
+                        }, 
+                        {
+                            "#": 7295, 
+                            "Insert Time": "2015-04-21T15:52:23.910Z", 
+                            "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                            "event_time": 1429631543907, 
+                            "origin_ip": "217.197.79.98", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://tibiopedia.pl/items/Energy_Bomb_Rune"
+                        }, 
+                        {
+                            "#": 9825, 
+                            "Insert Time": "2015-04-20T13:39:35.060Z", 
+                            "assl_hit_rules": "LOGIN_PAYPAL_23_NOV_2009_ALN", 
+                            "event_time": 1429537175049, 
+                            "origin_ip": "124.171.242.133", 
+                            "supposed_product": "Bd2014 v1.0.0", 
+                            "url": "http://payiipal-limited.com/webapps/20c22/websrc?cmd=_login-submit&dispatch=1aee3d5d71899d8f0db7524b6ec0fdeb2e6df0432c2a90dc6316aaa8024985afd7619bdc"
+                        }, 
+                        {
+                            "#": 10585, 
+                            "Insert Time": "2015-04-20T03:42:40.857Z", 
+                            "assl_hit_rules": "PAYPAL_UPDATE_ACCOUNT_27_OCT_2009_ALN", 
+                            "event_time": 1429501360851, 
+                            "origin_ip": "99.237.156.218", 
+                            "supposed_product": "Bd2013 v1.0.0", 
+                            "url": "https://myportal.tsh.to/f5-w-68747470733a2f2f7777772e70617970616c2e636f6d$$/ca/cgi-bin/webscr?cmd=_flow&SESSION=L1d8G7YTFWc-27KemYHcd1ypakjSxI7MPuzcsqGaUjrkpfJqCTSdCNPQYWG&dispatch=50a222a57771920b6a3d7b606239e4d529b525e0b7e69bf0224adecfb0124e9b61f737ba21b08198ecd47ed44bac94cd6fd721232afa4155"
+                        }, 
+                        {
+                            "#": 12158, 
+                            "Insert Time": "2015-04-19T12:47:22.661Z", 
+                            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                            "event_time": 1429447642652, 
+                            "origin_ip": "107.171.151.64", 
+                            "supposed_product": "Bd2014 v17.29.0", 
+                            "url": "http://habbor.pl/me.php"
+                        }
+                    ], 
+                    "op_hit_rules": {
+                        "#": 6351, 
+                        "Insert Time": "2015-04-22T00:24:50.218Z", 
+                        "assl_hit_rules": "VERIFIED_BY_VISA_6_IAN_2010_ALN", 
+                        "event_time": 1429662290211, 
+                        "origin_ip": "96.58.93.1", 
+                        "supposed_product": "Bd2014 v1.0.0", 
+                        "url": "https://www.greendot.com/greendot"
+                    }, 
+                    "origin_ip": "67.246.59.31", 
+                    "supposed_product": "Bd2013 v1.0.0", 
+                    "url": "http://signin.ebay.com.551-711-401-682.551-711-401-682.frv7myy7tuyt3dew0z.vklasvegasnvwihisf.com/cgi-bin/saw-cgi/ws/eBayISAPI.dll/eBayISAPI.dll?SignIn&ru=http://www.ebay.com/&sid=jgjopllw23VYeb014566"
+                }
+            ], 
+            "url": "http://www.habbobeta.co/index"
+        }, 
+        "event_time": 1429300835266, 
+        "indep_hit_rules": [ ], 
+        "op_hit_rules": {
+            "#": 5135, 
+            "Insert Time": "2015-04-22T15:57:09.631Z", 
+            "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+            "event_time": 1429718229623, 
+            "origin_ip": "88.70.222.167", 
+            "supposed_product": "Bd2014 v1.0.0", 
+            "url": "http://habbost.us/"
+        }, 
+        "origin_ip": "88.169.3.154", 
+        "supposed_product": "Bd2014 v1.0.0", 
+        "target_hit_rules": {
+            "#": 13046, 
+            "Insert Time": "2015-04-18T23:59:27.921Z", 
+            "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+            "cco_hit_rules": [
+                {
+                    "#": 2555, 
+                    "Insert Time": "2015-04-23T12:23:02.396Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429791782390, 
+                    "origin_ip": "109.24.190.210", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.adohotel.me/"
+                }, 
+                {
+                    "#": 5250, 
+                    "Insert Time": "2015-04-22T15:31:35.003Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429716694994, 
+                    "origin_ip": "77.199.117.94", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.hbeta.fr/favicon.ico"
+                }
+            ], 
+            "chk_hit-rules": {
+                "#": 7806, 
+                "Insert Time": "2015-04-21T10:51:19.113Z", 
+                "assl_hit_rules": "FIFA_2011_PLAYERS_28_FEB_2011_ALN", 
+                "event_time": 1429613479106, 
+                "origin_ip": "89.95.220.34", 
+                "supposed_product": "Bd2014 v1.0.0", 
+                "url": "http://fr.fifacoinsbuy.com/fifa-15-coins/ps4.html"
+            }, 
+            "event_time": 1429401567915, 
+            "indep_hit_rules": [
+                {
+                    "#": 1663, 
+                    "Insert Time": "2015-04-23T17:23:10.972Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429809790812, 
+                    "origin_ip": "90.7.86.85", 
+                    "supposed_product": "Bd2013 v1.0.0", 
+                    "url": "http://www.hbeta.fr/c_images/catalogue/catalog_header_roombuilder.gif?retry=2"
+                }, 
+                {
+                    "#": 1739, 
+                    "Insert Time": "2015-04-23T17:05:00.388Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429808700382, 
+                    "origin_ip": "90.7.208.96", 
+                    "supposed_product": "Bd2013 v1.0.0", 
+                    "url": "http://www.hbeta.fr/me"
+                }, 
+                {
+                    "#": 3444, 
+                    "Insert Time": "2015-04-23T01:47:56.199Z", 
+                    "assl_hit_rules": "AOL_MAIL_1_NOV_2010_ALN,AOL_28_OCT_2009_ALN", 
+                    "event_time": 1429753676189, 
+                    "origin_ip": "174.114.1.216", 
+                    "supposed_product": "Bd2013 v1.0.0", 
+                    "url": "http://aol-e56aab5-ssl.lbscmail.com/lasa.html?psr=594515&rudikv=M2SjMJ5aDTSioP5wo20=&qgsaifx=Q0E7S2FuYXRh&lhql=2.8.7904&klzy=d79d0b20e3511b663ad8253421afc56c&co=2"
+                }, 
+                {
+                    "#": 6256, 
+                    "Insert Time": "2015-04-22T01:39:54.981Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429666794979, 
+                    "origin_ip": "12.27.241.36", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://habboun.com/user"
+                }, 
+                {
+                    "#": 7742, 
+                    "Insert Time": "2015-04-21T11:47:00.913Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429616820905, 
+                    "origin_ip": "81.66.139.233", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.hbeta.fr/me"
+                }, 
+                {
+                    "#": 11961, 
+                    "Insert Time": "2015-04-19T14:00:47.572Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429452047565, 
+                    "origin_ip": "84.220.158.105", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.bobbaitalia.it/me"
+                }, 
+                {
+                    "#": 12661, 
+                    "Insert Time": "2015-04-19T08:00:19.295Z", 
+                    "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                    "event_time": 1429430419290, 
+                    "origin_ip": "164.126.168.212", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://smstibia.pl/"
+                }, 
+                {
+                    "#": 12895, 
+                    "Insert Time": "2015-04-19T02:53:55.713Z", 
+                    "assl_hit_rules": "FACEBOOK_LOGIN_6_AUG_2010_GLP_UPDATED,FACEBOOK_ALL_LANGUAGES_29_SEPT_2009_ALN_UPDATED3", 
+                    "event_time": 1429412035706, 
+                    "origin_ip": "130.193.228.190", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.oregonti.com.br/fb/"
+                }, 
+                {
+                    "#": 13228, 
+                    "Insert Time": "2015-04-18T22:05:11.331Z", 
+                    "assl_hit_rules": "FACEBOOK_PROFILE_VISITORS_15_NOV_2011_ALN", 
+                    "event_time": 1429394711324, 
+                    "origin_ip": "92.81.53.54", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://woh.ro/cum-sa-vorbesti-cu-o-fata-pe-facebook"
+                }, 
+                {
+                    "#": 14165, 
+                    "Insert Time": "2015-04-18T15:00:21.383Z", 
+                    "assl_hit_rules": "RULE_EBAY_MOTORS_6_AUG_2009_GLP_UPDATED_21_MAI", 
+                    "event_time": 1429369221374, 
+                    "origin_ip": "184.160.65.65", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://65.55.108.4/proxy.ashx?h=ejjv1XllAy0G7n1GmMHfseI3jUzltGHl&a=http://www.ebay.ca/itm/Altec-Lansing-Multimedia-Computer-Speakers-w-powered-Subwoofer-ACS33-/281648536896?pt=LH_DefaultDomain_0&hash=item41938f9d40"
+                }, 
+                {
+                    "#": 15642, 
+                    "Insert Time": "2015-04-17T21:12:27.587Z", 
+                    "IsSecured": "Yes", 
+                    "assl_hit_rules": "VERIFIED_BY_VISA_6_IAN_2010_ALN", 
+                    "event_time": 1429305147583, 
+                    "origin_ip": "67.175.213.230", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "https://www.greendot.com/greendot"
+                }, 
+                {
+                    "#": 15957, 
+                    "Insert Time": "2015-04-17T18:43:22.929Z", 
+                    "assl_hit_rules": "HABBO_9_OCT_2009_ALN_UPDATED_08_AUG_2011", 
+                    "event_time": 1429296202923, 
+                    "origin_ip": "204.93.58.90", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://www.habbobeta.co/"
+                }, 
+                {
+                    "#": 16795, 
+                    "Insert Time": "2015-04-17T14:19:34.980Z", 
+                    "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                    "event_time": 1429280374976, 
+                    "origin_ip": "185.18.142.166", 
+                    "supposed_product": "Bd2014 v1.0.0", 
+                    "url": "http://tibiopedia.pl/"
+                }
+            ], 
+            "origin_ip": "46.116.62.132", 
+            "supposed_product": "Bd2014 v1.0.0", 
+            "target_hit_rules": {
+                "#": 7034, 
+                "Insert Time": "2015-04-21T17:48:06.882Z", 
+                "assl_hit_rules": "RULE_TIBIA_29_IUL_2009_RZVMAK", 
+                "event_time": 1429638486868, 
+                "origin_ip": "88.156.48.225", 
+                "supposed_product": "Bd2014 v1.0.0", 
+                "url": "http://tibiopedia.pl/"
+            }, 
+            "url": "http://www.fifacoinsbuy.com/fifa-15-coins/pc.html"
+        }, 
+        "url": "http://habbolfamily.fr/index.php"
+    }
+]

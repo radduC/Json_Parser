@@ -1,0 +1,293 @@
+[
+    {
+        "CrtNr": 971, 
+        "Insert Time": "2015-04-24T06:45:12.183Z", 
+        "correlated_events": [
+            {
+                "CrtNr": 2723, 
+                "Insert Time": "2015-04-24T06:43:13.944Z", 
+                "domain": "en.netlog.com", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/SEBEM", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "gray", 
+                "url": "http://en.netlog.com/SEBEM"
+            }, 
+            {
+                "CrtNr": 4752, 
+                "Insert Time": "2015-04-24T06:38:25.562Z", 
+                "domain": "cdn11.optimecdn.com", 
+                "is_whitelisted": false, 
+                "method": "GET", 
+                "path": "/tr1/thaitrannytube/m/000/021/132/t92296xc26776.jpg", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://cdn11.optimecdn.com/tr1/thaitrannytube/m/000/021/132/t92296xc26776.jpg"
+            }, 
+            {
+                "CrtNr": 14135, 
+                "Insert Time": "2015-04-24T06:25:00.609Z", 
+                "domain": "www.receita.fazenda.gov.br", 
+                "is_whitelisted": true, 
+                "method": "POST", 
+                "path": "/PessoaJuridica/cnpj/cnpjreva/valida.asp", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://www.receita.fazenda.gov.br/PessoaJuridica/cnpj/cnpjreva/valida.asp"
+            }
+        ], 
+        "domain": "sstatic1.histats.com", 
+        "is_whitelisted": true, 
+        "method": "GET", 
+        "opposed_events": [
+            {
+                "CrtNr": 10627, 
+                "Insert Time": "2015-04-24T06:33:09.022Z", 
+                "domain": "t01.ashemaletube.com", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/thumbs/ast-320x240/2012-04/f2/abb4f1af2c050020d9acb5b4e0e2f3398.mp4-320x240-12.jpg", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://t01.ashemaletube.com/thumbs/ast-320x240/2012-04/f2/abb4f1af2c050020d9acb5b4e0e2f3398.mp4-320x240-12.jpg"
+            }, 
+            {
+                "CrtNr": 12576, 
+                "Insert Time": "2015-04-24T06:28:40.651Z", 
+                "domain": "logs.infoaxe.com", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/generic_log.jsp?callback=jQuery1102024084471236245197_1429900659428&event=ihome-time-spent&data=eyJldmVudCI6Imlob21lLXRpbWUtc3BlbnQiLCJwcm9wZXJ0aWVzIjp7InN0YXJ0ZWQiOjE0Mjk5MDA2NjgwNjgsImN1cnJlbnRUaW1lIjoxNDI5OTAyMzI4NzM5LCJ1c2VySWQiOiI0MjcyLTQ4NDYiLCJldmVudCI6Imlob21lLXRpbWUtc3BlbnQiLCJpbmZvYXhlX3JlZmVycmVyIjoiaHR0cDovL3N0YXRpYy5mbGlwb3JhLmNvbS93ZWJfc2VhcmNoLmh0bWwifX0%3D&_=1429900659598", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://logs.infoaxe.com/generic_log.jsp?callback=jQuery1102024084471236245197_1429900659428&event=ihome-time-spent&data=eyJldmVudCI6Imlob21lLXRpbWUtc3BlbnQiLCJwcm9wZXJ0aWVzIjp7InN0YXJ0ZWQiOjE0Mjk5MDA2NjgwNjgsImN1cnJlbnRUaW1lIjoxNDI5OTAyMzI4NzM5LCJ1c2VySWQiOiI0MjcyLTQ4NDYiLCJldmVudCI6Imlob21lLXRpbWUtc3BlbnQiLCJpbmZvYXhlX3JlZmVycmVyIjoiaHR0cDovL3N0YXRpYy5mbGlwb3JhLmNvbS93ZWJfc2VhcmNoLmh0bWwifX0%3D&_=1429900659598"
+            }, 
+            {
+                "CrtNr": 13315, 
+                "Insert Time": "2015-04-24T06:27:56.590Z", 
+                "domain": "www.receita.fazenda.gov.br", 
+                "is_whitelisted": true, 
+                "method": "POST", 
+                "path": "/PessoaJuridica/cnpj/cnpjreva/valida.asp", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://www.receita.fazenda.gov.br/PessoaJuridica/cnpj/cnpjreva/valida.asp"
+            }, 
+            {
+                "CrtNr": 13657, 
+                "Insert Time": "2015-04-24T06:25:21.642Z", 
+                "domain": "anx.groovitdigital.com", 
+                "is_whitelisted": false, 
+                "method": "GET", 
+                "path": "/ttj?id=4454340&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclick=[INSERT_CLICK_TAG]", 
+                "protocol": "HTTP/1.0", 
+                "status_url": "ok", 
+                "url": "http://anx.groovitdigital.com/ttj?id=4454340&cb=[CACHEBUSTER]&referrer=[REFERRER_URL]&pubclick=[INSERT_CLICK_TAG]"
+            }, 
+            {
+                "CrtNr": 13804, 
+                "Insert Time": "2015-04-24T06:25:16.378Z", 
+                "domain": "stat.tvigle.ru", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/download.htm?req=722&host=distribution.tvigle.ru", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://stat.tvigle.ru/download.htm?req=722&host=distribution.tvigle.ru"
+            }, 
+            {
+                "CrtNr": 15319, 
+                "Insert Time": "2015-04-24T06:24:17.746Z", 
+                "domain": "graph.facebook.com", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/fql?q=SELECT%20share_count%20,%20like_count%20,%20comment_count%20FROM%20link_stat%20WHERE%20url%20in%20(%27http%3A//www.vanguardia.com.mx/comocomprarelnuevoapplewatchnoesfacil-2299040.html%27)", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "gray", 
+                "url": "http://graph.facebook.com/fql?q=SELECT%20share_count%20,%20like_count%20,%20comment_count%20FROM%20link_stat%20WHERE%20url%20in%20(%27http%3A//www.vanguardia.com.mx/comocomprarelnuevoapplewatchnoesfacil-2299040.html%27)"
+            }
+        ], 
+        "path": "/0.gif?2864330&101", 
+        "protocol": "HTTP/1.1", 
+        "seen_events": [
+            {
+                "CrtNr": 172, 
+                "Insert Time": "2015-04-24T06:46:02.804Z", 
+                "domain": "an.yandex.ru", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/meta/132169?target-ref=http%3A%2F%2Fvk.com%2Fid278450702&page-ref=http%3A%2F%2Fvk.com%2Fid276245833&charset=utf-8&imp-id=1&flash-ver=16&test-tag=418&grab=dNCU0LjQsNC70L7Qs9C4CjFPbmxpbmUg0JzQuNGF0LDQuNC7INCh0LzQuNGA0L3QvtCyIA==&callback=Ya[1429857669923]", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://an.yandex.ru/meta/132169?target-ref=http%3A%2F%2Fvk.com%2Fid278450702&page-ref=http%3A%2F%2Fvk.com%2Fid276245833&charset=utf-8&imp-id=1&flash-ver=16&test-tag=418&grab=dNCU0LjQsNC70L7Qs9C4CjFPbmxpbmUg0JzQuNGF0LDQuNC7INCh0LzQuNGA0L3QvtCyIA==&callback=Ya[1429857669923]"
+            }, 
+            {
+                "CrtNr": 9970, 
+                "Insert Time": "2015-04-24T06:33:34.720Z", 
+                "domain": "koigaku.machicon.jp", 
+                "is_whitelisted": false, 
+                "method": "GET", 
+                "path": "/column/37156/%7B%7Bicon_image_url%7D%7D", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://koigaku.machicon.jp/column/37156/%7B%7Bicon_image_url%7D%7D"
+            }, 
+            {
+                "CrtNr": 11254, 
+                "Insert Time": "2015-04-24T06:29:56.563Z", 
+                "domain": "yads.yahoo.co.jp", 
+                "independent_events": [
+                    {
+                        "CrtNr": 5023, 
+                        "Insert Time": "2015-04-24T06:38:18.523Z", 
+                        "domain": "www.priceline.com", 
+                        "is_whitelisted": true, 
+                        "method": "GET", 
+                        "path": "/sharedapps/js/jquery-ui-1.8.22.custom.min.allcomponents.js", 
+                        "protocol": "HTTP/1.1", 
+                        "status_url": "ok", 
+                        "url": "http://www.priceline.com/sharedapps/js/jquery-ui-1.8.22.custom.min.allcomponents.js"
+                    }, 
+                    {
+                        "CrtNr": 9984, 
+                        "Insert Time": "2015-04-24T06:33:32.608Z", 
+                        "domain": "66.228.37.24", 
+                        "is_whitelisted": false, 
+                        "method": "GET", 
+                        "path": "/ip.php", 
+                        "protocol": "HTTP/1.1", 
+                        "status_url": "ok", 
+                        "url": "http://66.228.37.24/ip.php"
+                    }, 
+                    {
+                        "CrtNr": 14167, 
+                        "Insert Time": "2015-04-24T06:24:59.538Z", 
+                        "domain": "www.staples.nl", 
+                        "is_whitelisted": true, 
+                        "method": "GET", 
+                        "path": "/toner-grg-g-geel/cbs/1600974.html", 
+                        "protocol": "HTTP/1.1", 
+                        "status_url": "ok", 
+                        "url": "http://www.staples.nl/toner-grg-g-geel/cbs/1600974.html"
+                    }
+                ], 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/oi?s=70836_25161-30481-33562&t=t&fr_id=yads_1062183-0&noad_cb=window.parent.YAHOO.JP.rma.outstream.removeAdElm&enc=UTF-8&nr=1&pv_ts=1429856492013-7984226&pb_rank=2&page=1&sid=1160000519&u=http%3a%2f%2ftextream.yahoo.co.jp%2fmessage%2f1835673%2fb69ea589413b2cc7cb1e244e33a0bb1e%2f1%2f23019", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "tracked_events": [
+                    {
+                        "CrtNr": 8685, 
+                        "Insert Time": "2015-04-24T06:34:36.634Z", 
+                        "MeasuredDelay": 539, 
+                        "Redirected": "Null", 
+                        "domain": "img.sitehot.net", 
+                        "independent_events": {
+                            "CrtNr": 2700, 
+                            "Insert Time": "2015-04-24T06:43:15.432Z", 
+                            "domain": "thumbnails.freeones.com", 
+                            "is_whitelisted": true, 
+                            "method": "GET", 
+                            "path": "/jpg/v_various/This_is_Glamour/Robyn_Hunt_003.jpg", 
+                            "protocol": "HTTP/1.1", 
+                            "status_url": "ok", 
+                            "url": "http://thumbnails.freeones.com/jpg/v_various/This_is_Glamour/Robyn_Hunt_003.jpg"
+                        }, 
+                        "is_whitelisted": true, 
+                        "method": "GET", 
+                        "path": "/multi6/1/146/14597/1459665.jpg", 
+                        "protocol": "HTTP/1.1", 
+                        "seen_events": [
+                            {
+                                "CrtNr": 12202, 
+                                "Down": "null", 
+                                "Insert Time": "2015-04-24T06:29:02.766Z", 
+                                "MeasuredDelay": 354, 
+                                "domain": "www.receita.fazenda.gov.br", 
+                                "is_whitelisted": true, 
+                                "method": "GET", 
+                                "path": "/PessoaJuridica/cnpj/cnpjreva/Cnpjreva_Solicitacao2.asp?cnpj=16989446000120", 
+                                "protocol": "HTTP/1.1", 
+                                "status_url": "ok", 
+                                "url": "http://www.receita.fazenda.gov.br/PessoaJuridica/cnpj/cnpjreva/Cnpjreva_Solicitacao2.asp?cnpj=16989446000120"
+                            }, 
+                            {
+                                "CrtNr": 18980, 
+                                "Insert Time": "2015-04-24T06:18:39.758Z", 
+                                "domain": "graph.facebook.com", 
+                                "is_whitelisted": true, 
+                                "method": "GET", 
+                                "path": "/?ids=1415539204,100000029683311,100002103943551,100001647457365,100001917546606,100001841047260&fields=id,name,first_name,middle_name,last_name,gender,locale,link,username,picture&type=large", 
+                                "protocol": "HTTP/1.1", 
+                                "status_url": "gray", 
+                                "url": "http://graph.facebook.com/?ids=1415539204,100000029683311,100002103943551,100001647457365,100001917546606,100001841047260&fields=id,name,first_name,middle_name,last_name,gender,locale,link,username,picture&type=large"
+                            }
+                        ], 
+                        "status_url": "ok", 
+                        "url": "http://img.sitehot.net/multi6/1/146/14597/1459665.jpg"
+                    }, 
+                    {
+                        "CrtNr": 13639, 
+                        "Insert Time": "2015-04-24T06:25:22.424Z", 
+                        "domain": "www.amazon.com", 
+                        "is_whitelisted": true, 
+                        "method": "GET", 
+                        "path": "/gp/aw/d/B00EQ2VK5M?vid=ALL&vs=1", 
+                        "protocol": "HTTP/1.1", 
+                        "status_url": "ok", 
+                        "url": "http://www.amazon.com/gp/aw/d/B00EQ2VK5M?vid=ALL&vs=1"
+                    }
+                ], 
+                "url": "http://yads.yahoo.co.jp/oi?s=70836_25161-30481-33562&t=t&fr_id=yads_1062183-0&noad_cb=window.parent.YAHOO.JP.rma.outstream.removeAdElm&enc=UTF-8&nr=1&pv_ts=1429856492013-7984226&pb_rank=2&page=1&sid=1160000519&u=http%3a%2f%2ftextream.yahoo.co.jp%2fmessage%2f1835673%2fb69ea589413b2cc7cb1e244e33a0bb1e%2f1%2f23019"
+            }, 
+            {
+                "CrtNr": 13442, 
+                "Insert Time": "2015-04-24T06:27:47.743Z", 
+                "domain": "yads.yahoo.co.jp", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/oi?s=79414_16447-27424-30254&t=t&fr_id=yads_2263189-4&enc=UTF-8&nr=1&pv_ts=1429856492013-7984226&pb_rank=2&type=finance&page=1&sid=1160000519&u=http%3a%2f%2ftextream.yahoo.co.jp%2fmessage%2f1835673%2fb69ea589413b2cc7cb1e244e33a0bb1e%2f1%2f23019&ref=http%3a%2f%2ftextream.yahoo.co.jp%2fpersonal%2fhistory%2fcomment%3fuser%3dFlr8JNl3uDQ.4jveCw--", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://yads.yahoo.co.jp/oi?s=79414_16447-27424-30254&t=t&fr_id=yads_2263189-4&enc=UTF-8&nr=1&pv_ts=1429856492013-7984226&pb_rank=2&type=finance&page=1&sid=1160000519&u=http%3a%2f%2ftextream.yahoo.co.jp%2fmessage%2f1835673%2fb69ea589413b2cc7cb1e244e33a0bb1e%2f1%2f23019&ref=http%3a%2f%2ftextream.yahoo.co.jp%2fpersonal%2fhistory%2fcomment%3fuser%3dFlr8JNl3uDQ.4jveCw--"
+            }, 
+            {
+                "CrtNr": 15648, 
+                "Insert Time": "2015-04-24T06:24:05.862Z", 
+                "domain": "www.immopool-webservice.de", 
+                "is_whitelisted": true, 
+                "method": "GET", 
+                "path": "/dynimg/image.ashx?image=/IMGOBJEKT/BLD1024/004/400/019400/1282-03.JPG", 
+                "protocol": "HTTP/1.1", 
+                "status_url": "ok", 
+                "url": "http://www.immopool-webservice.de/dynimg/image.ashx?image=/IMGOBJEKT/BLD1024/004/400/019400/1282-03.JPG"
+            }
+        ], 
+        "status_url": "ok", 
+        "url": "http://sstatic1.histats.com/0.gif?2864330&101"
+    }, 
+    {
+        "CrtNr": 17346, 
+        "Insert Time": "2015-04-24T06:22:59.411Z", 
+        "domain": "www.amazon.com", 
+        "is_whitelisted": true, 
+        "method": "GET", 
+        "path": "/gp/aw/d/B00W8XKOJO?vid=ALL&vs=1", 
+        "protocol": "HTTP/1.1", 
+        "status_url": "ok", 
+        "url": "http://www.amazon.com/gp/aw/d/B00W8XKOJO?vid=ALL&vs=1"
+    }, 
+    {
+        "CrtNr": 20861, 
+        "Insert Time": "2015-04-24T06:17:58.482Z", 
+        "domain": "br.viadeo.com", 
+        "is_whitelisted": true, 
+        "method": "GET", 
+        "path": "/pt/profile/acides.costa", 
+        "protocol": "HTTP/1.1", 
+        "status_url": "ok", 
+        "url": "http://br.viadeo.com/pt/profile/acides.costa"
+    }
+]
