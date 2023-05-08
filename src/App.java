@@ -71,12 +71,11 @@ public class App {
         return operations;
     }
 
-    private static void writeOutput(String outputFile, String jsonFile, List<List<String>> operations)
-            throws IOException {
+    private static void writeOutput(String outputFile, String jsonFile, List<List<String>> operations) throws IOException {
 
 //        EventCorrelation eventCorrelation2 = new EventCorrelation(new JSON(jsonFile));
 //        EventCorrelationV2 eventCorrelation = new EventCorrelationV2(new JSONv2(jsonFile));
-        JsonDataStructure jsonV2 = new JsonDataStructure(jsonFile);
+        JsonDataStructure jsonDS = new JsonDataStructure(jsonFile);
 
         try (BufferedWriter outputBuffer = new BufferedWriter(new FileWriter(outputFile))) {
             List<String> outputs = new LinkedList<>();
@@ -85,35 +84,38 @@ public class App {
                 String keyword = operation.remove(0);
                 String[] inputs = operation.toArray(new String[operation.size()]);
                 String pattern = "[\\S ]+";
-                String input;
+                String result = correlateOperations(jsonDS, keyword, inputs);
 
-                switch (keyword) {
-                    case "GET" -> {
-                        GetCorrelation correlation = new GetCorrelation(jsonV2);
-                        input = correlation.get(inputs);
-                    }
-
-                    case "PUT" -> {
-                        PutCorrelation correlation = new PutCorrelation(jsonV2);
-                        input = correlation.put(inputs);
-                    }
-
-                    case "DEL" -> {
-                        DelCorrelation correlation = new DelCorrelation(jsonV2);
-                        input = correlation.del(inputs);
-                    }
-
-                    default -> input = "Uknown operation";
-                }
-                ;
-
-                if (input.matches(pattern)) {
-                    outputs.add(input);
+                if (result.matches(pattern)) {
+                    outputs.add(result);
                 }
             }
 
             for (String output : outputs) {
                 outputBuffer.write(output + "\n");
+            }
+        }
+    }
+
+    private static String correlateOperations(JsonDataStructure jsonDS, String keyword, String[] inputs) {
+        switch (keyword) {
+            case "GET" -> {
+                GetCorrelation correlation = new GetCorrelation(jsonDS);
+                return correlation.get(inputs);
+            }
+
+            case "PUT" -> {
+                PutCorrelation correlation = new PutCorrelation(jsonDS);
+                return correlation.put(inputs);
+            }
+
+            case "DEL" -> {
+                DelCorrelation correlation = new DelCorrelation(jsonDS);
+                return correlation.del(inputs);
+            }
+
+            default -> {
+                return "Uknown operation";
             }
         }
     }

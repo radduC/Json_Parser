@@ -10,8 +10,8 @@ import java.util.Queue;
 import java.util.Scanner;
 
 public class JsonDataStructure {
-    private Queue<String> tokens;
     private JsonArray json;
+    private Queue<String> tokens;
     private static final String DELIMITERS = "{}[]:,#_-";
 
     public JsonDataStructure(String inputFile) {
