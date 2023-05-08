@@ -75,7 +75,8 @@ public class App {
             throws IOException {
 
 //        EventCorrelation eventCorrelation2 = new EventCorrelation(new JSON(jsonFile));
-        EventCorrelationV2 eventCorrelation = new EventCorrelationV2(new JSONv2(jsonFile));
+//        EventCorrelationV2 eventCorrelation = new EventCorrelationV2(new JSONv2(jsonFile));
+        JsonDataStructure jsonV2 = new JsonDataStructure(jsonFile);
 
         try (BufferedWriter outputBuffer = new BufferedWriter(new FileWriter(outputFile))) {
             List<String> outputs = new LinkedList<>();
@@ -83,15 +84,28 @@ public class App {
             for (List<String> operation : operations) {
                 String keyword = operation.remove(0);
                 String[] inputs = operation.toArray(new String[operation.size()]);
-                String input;
                 String pattern = "[\\S ]+";
+                String input;
 
-                input = switch (keyword) {
-                    case "GET" -> eventCorrelation.get(inputs);
-                    case "PUT" -> eventCorrelation.put(inputs);
-                    case "DEL" -> eventCorrelation.del(inputs);
-                    default -> "Uknown operation";
-                };
+                switch (keyword) {
+                    case "GET" -> {
+                        GetCorrelation correlation = new GetCorrelation(jsonV2);
+                        input = correlation.get(inputs);
+                    }
+
+                    case "PUT" -> {
+                        PutCorrelation correlation = new PutCorrelation(jsonV2);
+                        input = correlation.put(inputs);
+                    }
+
+                    case "DEL" -> {
+                        DelCorrelation correlation = new DelCorrelation(jsonV2);
+                        input = correlation.del(inputs);
+                    }
+
+                    default -> input = "Uknown operation";
+                }
+                ;
 
                 if (input.matches(pattern)) {
                     outputs.add(input);

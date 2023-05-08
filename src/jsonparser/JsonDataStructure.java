@@ -9,17 +9,15 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class JSONv2 {
+public class JsonDataStructure {
     private Queue<String> tokens;
     private JsonArray json;
+    private static final String DELIMITERS = "{}[]:,#_-";
 
-    public JSONv2(String inputFile) {
+    public JsonDataStructure(String inputFile) {
         try {
             tokens = readFile(inputFile);
             json = parseJson(tokens);
-
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
 
         } catch (Exception e) {
             e.printStackTrace();
@@ -48,69 +46,78 @@ public class JSONv2 {
 
     private Queue<String> getTokens(String line) {
         Queue<String> tokens = new LinkedList<>();
+        StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < line.length(); i++) {
+            sb.setLength(0);
             char c = line.charAt(i);
 
-            if ("{}[]:,#_-".contains(c + "")) {
-                tokens.offer(c + "");
+            if (DELIMITERS.indexOf(c) != -1) {
+                tokens.offer(String.valueOf(c));
 
             } else if (c == '"') {
-                StringBuilder sb = new StringBuilder();
-                int index = i + 1;
-
-                while (line.charAt(index) != '"') {
-                    sb.append(line.charAt(index++));
-                }
-
-                tokens.offer(sb.toString());
-                i = index;
+                i = tokenizeString(line, tokens, sb, i);
 
             } else if (Character.toLowerCase(c) == 't' || c == 'f') {
-                StringBuilder sb = new StringBuilder();
-                int index = i;
+                i = tokenizeBoolean(line, tokens, sb, i);
 
-                while (line.charAt(index) != 'e') {
-                    sb.append(line.charAt(index++));
-                }
-
-                i = index;
-                sb.append(line.charAt(i--));
-                tokens.offer(sb.toString());
-
-            } else if ((c >= '0' && c <= '9') || c == '-') {
-                StringBuilder sb = new StringBuilder();
-                int index = i;
-
-                while ((c >= '0' && c <= '9') || c == '-') {
-                    sb.append(c);
-
-                    try {
-                        c = line.charAt(++index);
-                    } catch (Exception e) {
-                        break;
-                    }
-                }
-
-                i = --index;
-                tokens.offer(sb.toString());
+            } else if (Character.isDigit(c) || c == '-') {
+                i = tokenizeNumber(line, tokens, sb, i);
 
             } else if (Character.toLowerCase(c) == 'n') {
-                StringBuilder sb = new StringBuilder();
-                int index = i;
-
-                while (line.charAt(index) != 'l') {
-                    sb.append(line.charAt(index++));
-                }
-
-                sb.append(line.charAt(index++));
-                sb.append(line.charAt(index));
-                i = --index;
-                tokens.offer(sb.toString());
+                i = tokenizeNull(line, tokens, sb, i);
             }
         }
 
         return tokens;
+    }
+
+    private static int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
+        int index = i;
+
+        while (line.charAt(index) != 'l') {
+            sb.append(line.charAt(index++));
+        }
+
+        sb.append(line.charAt(index++));
+        sb.append(line.charAt(index));
+        tokens.offer(sb.toString());
+        return --index;
+    }
+
+    private static int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
+        int index = i;
+
+        while ((line.charAt(index) >= '0' && line.charAt(index) <= '9') || line.charAt(index) == '-') {
+            sb.append(line.charAt(index++));
+        }
+
+        tokens.offer(sb.toString());
+        return --index;
+    }
+
+    private static int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
+        int index = i;
+
+        while (line.charAt(index) != 'e') {
+            sb.append(line.charAt(index++));
+        }
+
+        sb.append(line.charAt(index--));
+        tokens.offer(sb.toString());
+        return index;
+    }
+
+    private static int tokenizeString(String line, Queue<String> tokens, StringBuilder sb, int i) {
+        int index = i + 1;
+
+        while (line.charAt(index) != '"') {
+            sb.append(line.charAt(index++));
+        }
+
+        tokens.offer(sb.toString());
+        sb.setLength(0);
+        return index;
     }
 
     private JsonArray parseJson(Queue<String> tokens) throws Exception {

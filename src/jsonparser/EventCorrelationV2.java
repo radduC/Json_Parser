@@ -10,19 +10,17 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 public class EventCorrelationV2 {
-    private JSONv2 json;
+    private final JsonDataStructure json;
 
-    public EventCorrelationV2(JSONv2 json) {
+    public EventCorrelationV2(JsonDataStructure json) {
         this.json = json;
     }
 
-    public JSONv2 getJson() {
+    public JsonDataStructure getJson() {
         return json;
     }
 
-    public void navigateJson(Deque<GenericNode> itemsStack, Deque<String> previousStrings, String[] array)
-            throws IndexOutOfBoundsException, JsonArrayException, NumberFormatException, NullPointerException,
-            JsonObjectException, KeyNotFoundException, Exception {
+    public void navigateJson(Deque<GenericNode> itemsStack, Deque<String> previousStrings, String[] array) throws Exception {
 
         itemsStack.push(json.getJson());
 
@@ -81,7 +79,7 @@ public class EventCorrelationV2 {
             return genericNode.toString();
         }
 
-        return "\"" + genericNode.toString() + "\"";
+        return "\"" + genericNode + "\"";
     }
 
     public String put(String[] array) {
