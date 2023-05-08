@@ -165,12 +165,4 @@ public class App {
 
         return null;
     }
-
-    public static String tokenizeNull(String string) {
-        if (string.toLowerCase().equals("null")) {
-            return "null";
-        }
-
-        return null;
-    }
 }
