@@ -8,19 +8,18 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 public class PutCorrelation extends GenericCorrelation {
+    private static final String operationType = "PUT";
+
     public PutCorrelation(JsonDataStructure json) {
         super(json);
     }
 
     public String put(String[] array) {
-        Deque<GenericNode> itemsStack = new LinkedList<>();
-        Deque<String> previousStrings = new LinkedList<>();
-
         String value = array[array.length - 1];
         String key = array[array.length - 2];
         array = Arrays.copyOf(array, array.length - 2);
 
-        String result = checkExceptions(array, itemsStack, previousStrings, "PUT");
+        String result = checkExceptions(array, itemsStack, previousStrings, operationType);
 
         if (result != null)
             return result;

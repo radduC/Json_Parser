@@ -7,12 +7,17 @@ import models.GenericNode;
 import models.JsonObject;
 
 import java.util.Deque;
+import java.util.LinkedList;
 
 public class GenericCorrelation {
     private final JsonDataStructure json;
+    protected final Deque<GenericNode> itemsStack;
+    protected final Deque<String> previousStrings;
 
     public GenericCorrelation(JsonDataStructure json) {
         this.json = json;
+        itemsStack = new LinkedList<>();
+        previousStrings = new LinkedList<>();
     }
 
     public JsonDataStructure getJson() {
@@ -20,7 +25,6 @@ public class GenericCorrelation {
     }
 
     public void navigateJson(Deque<GenericNode> itemsStack, Deque<String> previousStrings, String[] array) throws Exception {
-
         itemsStack.push(json.getJson());
 
         for (String string : array) {

@@ -7,15 +7,14 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 public class DelCorrelation extends GenericCorrelation{
+    private static final String operationType = "DEL";
+
     public DelCorrelation(JsonDataStructure json) {
         super(json);
     }
 
     public String del(String[] array) {
-        Deque<GenericNode> itemsStack = new LinkedList<>();
-        Deque<String> previousStrings = new LinkedList<>();
-
-        String result = checkExceptions(array, itemsStack, previousStrings, "DEL");
+        String result = checkExceptions(array, itemsStack, previousStrings, operationType);
 
         if (result != null)
             return result;
