@@ -47,7 +47,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return tokens;
     }
 
-    private static int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    static int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
         while (line.charAt(index) != 'l') {
@@ -60,7 +60,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return --index;
     }
 
-    private static int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    static int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
         while ((line.charAt(index) >= '0' && line.charAt(index) <= '9') || line.charAt(index) == '-') {
@@ -71,7 +71,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return --index;
     }
 
-    private static int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    static int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
         while (line.charAt(index) != 'e') {
@@ -83,7 +83,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return index;
     }
 
-    private static int tokenizeString(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    public int tokenizeString(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i + 1;
 
         while (line.charAt(index) != '"') {
