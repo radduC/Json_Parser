@@ -2,122 +2,31 @@ package jsonparser;
 
 import models.*;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Scanner;
 
 public class JsonDataStructure {
+    private final JsonReader jsonReader;
+    private final JsonTokenizer jsonTokenizer;
     private JsonArray json;
-    private Queue<String> tokens;
-    private static final String DELIMITERS = "{}[]:,#_-";
 
-    public JsonDataStructure(String inputFile) {
-        try {
-            tokens = readFile(inputFile);
-            json = parseJson(tokens);
-
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+    public JsonDataStructure(JsonReader jsonReader, JsonTokenizer jsonTokenizer) {
+        this.jsonReader = jsonReader;
+        this.jsonTokenizer = jsonTokenizer;
     }
 
     public JsonArray getJson() {
         return json;
     }
 
-    private Queue<String> readFile(String inputFile) throws FileNotFoundException {
-        Queue<String> tokens = new LinkedList<>();
+    public void process(String inputFile) {
+        try {
+            Queue<String> lines = jsonReader.readFile(inputFile);
+            Queue<String> tokens = jsonTokenizer.tokenizeLines(lines);
+            json = parseJson(tokens);
 
-        try (Scanner scanner = new Scanner(new BufferedReader(new FileReader(inputFile)))) {
-            String pattern = "\\s+(?=([^\\\"]*\\\"[^\\\"]*\\\")*[^\\\"]*$)";
-
-            while (scanner.hasNext()) {
-                String line = scanner.nextLine().replaceAll(pattern, "");
-                Queue<String> token = getTokens(line);
-                tokens.addAll(token);
-            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-
-        return tokens;
-    }
-
-    private Queue<String> getTokens(String line) {
-        Queue<String> tokens = new LinkedList<>();
-        StringBuilder sb = new StringBuilder();
-
-        for (int i = 0; i < line.length(); i++) {
-            sb.setLength(0);
-            char c = line.charAt(i);
-
-            if (DELIMITERS.indexOf(c) != -1) {
-                tokens.offer(String.valueOf(c));
-
-            } else if (c == '"') {
-                i = tokenizeString(line, tokens, sb, i);
-
-            } else if (Character.toLowerCase(c) == 't' || c == 'f') {
-                i = tokenizeBoolean(line, tokens, sb, i);
-
-            } else if (Character.isDigit(c) || c == '-') {
-                i = tokenizeNumber(line, tokens, sb, i);
-
-            } else if (Character.toLowerCase(c) == 'n') {
-                i = tokenizeNull(line, tokens, sb, i);
-            }
-        }
-
-        return tokens;
-    }
-
-    private static int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
-        int index = i;
-
-        while (line.charAt(index) != 'l') {
-            sb.append(line.charAt(index++));
-        }
-
-        sb.append(line.charAt(index++));
-        sb.append(line.charAt(index));
-        tokens.offer(sb.toString());
-        return --index;
-    }
-
-    private static int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
-        int index = i;
-
-        while ((line.charAt(index) >= '0' && line.charAt(index) <= '9') || line.charAt(index) == '-') {
-            sb.append(line.charAt(index++));
-        }
-
-        tokens.offer(sb.toString());
-        return --index;
-    }
-
-    private static int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
-        int index = i;
-
-        while (line.charAt(index) != 'e') {
-            sb.append(line.charAt(index++));
-        }
-
-        sb.append(line.charAt(index--));
-        tokens.offer(sb.toString());
-        return index;
-    }
-
-    private static int tokenizeString(String line, Queue<String> tokens, StringBuilder sb, int i) {
-        int index = i + 1;
-
-        while (line.charAt(index) != '"') {
-            sb.append(line.charAt(index++));
-        }
-
-        tokens.offer(sb.toString());
-        sb.setLength(0);
-        return index;
     }
 
     private JsonArray parseJson(Queue<String> tokens) throws Exception {

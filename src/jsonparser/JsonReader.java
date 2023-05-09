@@ -1,7 +1,8 @@
 package jsonparser;
 
-import java.util.Scanner;
+import java.io.FileNotFoundException;
+import java.util.Queue;
 
 public interface JsonReader {
-    Scanner getScanner(String inputFile);
+    Queue<String> readFile(String inputFile) throws FileNotFoundException;
 }

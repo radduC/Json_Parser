@@ -5,7 +5,7 @@ import models.GenericNode;
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class GetCorrelation extends GenericCorrelation{
+public class GetCorrelation extends GenericCorrelation {
     public GetCorrelation(JsonDataStructure json) {
         super(json);
     }
@@ -35,6 +35,4 @@ public class GetCorrelation extends GenericCorrelation{
 
         return "\"" + genericNode + "\"";
     }
-
-
 }
