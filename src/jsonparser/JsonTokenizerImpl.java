@@ -47,7 +47,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return tokens;
     }
 
-    static int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    public int tokenizeNull(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
         while (line.charAt(index) != 'l') {
@@ -60,10 +60,10 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return --index;
     }
 
-    static int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    public int tokenizeNumber(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
-        while ((line.charAt(index) >= '0' && line.charAt(index) <= '9') || line.charAt(index) == '-') {
+        while (Character.isDigit(line.charAt(index)) || line.charAt(index) == '-') {
             sb.append(line.charAt(index++));
         }
 
@@ -71,7 +71,7 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         return --index;
     }
 
-    static int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
+    public int tokenizeBoolean(String line, Queue<String> tokens, StringBuilder sb, int i) {
         int index = i;
 
         while (line.charAt(index) != 'e') {
@@ -91,7 +91,6 @@ public class JsonTokenizerImpl implements JsonTokenizer {
         }
 
         tokens.offer(sb.toString());
-        sb.setLength(0);
         return index;
     }
 }
