@@ -48,7 +48,7 @@ public class JsonString implements GenericNode {
 
     @Override
     public String getType() {
-        return "models.JsonString";
+        return "JsonString";
     }
 
     @Override

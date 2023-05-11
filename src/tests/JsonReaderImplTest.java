@@ -16,7 +16,6 @@ class JsonReaderImplTest {
     void readFileTest() throws FileNotFoundException {
         String inputFile = "resources/input/example.json";
         Queue<String> lines = jsonReader.readFile(inputFile);
-        System.out.println(lines);
 
         assertEquals(26, lines.size());
         assertEquals("[", lines.poll());

@@ -43,7 +43,7 @@ public class JsonBoolean implements GenericNode {
 
     @Override
     public String getType() {
-        return "models.JsonBoolean";
+        return "JsonBoolean";
     }
 
     @Override

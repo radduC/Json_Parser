@@ -5,9 +5,13 @@ import models.*;
 import java.util.Queue;
 
 public class JsonDataStructure {
-    private final JsonReader jsonReader;
-    private final JsonTokenizer jsonTokenizer;
+    private JsonReader jsonReader;
+    private JsonTokenizer jsonTokenizer;
     private JsonArray json;
+
+    public JsonDataStructure() {
+
+    }
 
     public JsonDataStructure(JsonReader jsonReader, JsonTokenizer jsonTokenizer) {
         this.jsonReader = jsonReader;
@@ -33,7 +37,7 @@ public class JsonDataStructure {
         return (JsonArray) parse(tokens);
     }
 
-    private GenericNode parse(Queue<String> tokens) throws Exception {
+    public GenericNode parse(Queue<String> tokens) throws Exception {
         String firstToken = tokens.poll();
 
         if (firstToken.equals("[")) {
@@ -63,7 +67,7 @@ public class JsonDataStructure {
         return new JsonNull();
     }
 
-    private JsonArray parseArray(Queue<String> tokens) throws Exception {
+    public JsonArray parseArray(Queue<String> tokens) throws Exception {
         JsonArray jsonArray = new JsonArray();
         String firstToken = tokens.peek();
 
@@ -92,7 +96,7 @@ public class JsonDataStructure {
         throw new Exception("Expected end-of-array bracket");
     }
 
-    private JsonObject parseObject(Queue<String> tokens) throws Exception {
+    public JsonObject parseObject(Queue<String> tokens) throws Exception {
         JsonObject jsonObject = new JsonObject();
         String firstToken = tokens.peek();
 
@@ -103,7 +107,6 @@ public class JsonDataStructure {
 
         while (!tokens.isEmpty()) {
             String key = tokens.peek();
-            // String pattern = "[\\w\\s\\W]+";
             String pattern = "[\\w\\s\\#\\-\\_]+";
 
             if (key.matches(pattern)) {
@@ -122,9 +125,6 @@ public class JsonDataStructure {
                 tokens.poll();
                 return jsonObject;
 
-            } else if (!firstToken.equals(",")) {
-                // throw new Exception("Expected comma after pair in object, got:" +
-                // firstToken);
             }
 
             tokens.poll();

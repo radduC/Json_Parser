@@ -6,7 +6,7 @@ import exceptions.KeyNotFoundException;
 import java.util.HashMap;
 
 public class JsonObject implements GenericNode {
-    private HashMap<String, GenericNode> jsonObject;
+    private final HashMap<String, GenericNode> jsonObject;
 
     public JsonObject() {
         jsonObject = new HashMap<>();

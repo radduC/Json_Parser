@@ -4,7 +4,7 @@ import exceptions.JsonArrayException;
 import exceptions.JsonObjectException;
 
 public class JsonNull implements GenericNode {
-    GenericNode value;
+    private GenericNode value;
 
     public JsonNull() {
         value = null;
@@ -43,7 +43,7 @@ public class JsonNull implements GenericNode {
 
     @Override
     public String getType() {
-        return "models.JsonNull";
+        return "JsonNull";
     }
 
     @Override

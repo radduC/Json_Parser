@@ -4,7 +4,7 @@ import exceptions.JsonArrayException;
 import exceptions.JsonObjectException;
 
 public class JsonNumber implements GenericNode {
-    private String value;
+    private final String value;
 
     public JsonNumber(String value) {
         this.value = value;
@@ -39,7 +39,7 @@ public class JsonNumber implements GenericNode {
 
     @Override
     public String getType() {
-        return "models.JsonNumber";
+        return "JsonNumber";
     }
 
     @Override
